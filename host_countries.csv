@@ -1,0 +1,55 @@
+year,season,city,country,region
+1896,Summer,Athens,Greece,Europe
+1900,Summer,Paris,France,Europe
+1904,Summer,St. Louis,United States,North America
+1908,Summer,London,United Kingdom,Europe
+1912,Summer,Stockholm,Sweden,Europe
+1920,Summer,Antwerp,Belgium,Europe
+1924,Winter,Chamonix,France,Europe
+1924,Summer,Paris,France,Europe
+1928,Winter,St. Moritz,Switzerland,Europe
+1928,Summer,Amsterdam,Netherlands,Europe
+1932,Winter,Lake Placid,United States,North America
+1932,Summer,Los Angeles,United States,North America
+1936,Winter,Garmisch-Partenkirchen,Germany,Europe
+1936,Summer,Berlin,Germany,Europe
+1948,Winter,St. Moritz,Switzerland,Europe
+1948,Summer,London,United Kingdom,Europe
+1952,Winter,Oslo,Norway,Europe
+1952,Summer,Helsinki,Finland,Europe
+1956,Winter,Cortina d'Ampezzo,Italy,Europe
+1956,Summer,Melbourne,Australia,Oceania
+1960,Winter,Squaw Valley,United States,North America
+1960,Summer,Rome,Italy,Europe
+1964,Winter,Innsbruck,Austria,Europe
+1964,Summer,Tokyo,Japan,Asia
+1968,Winter,Grenoble,France,Europe
+1968,Summer,Mexico City,Mexico,North America
+1972,Winter,Sapporo,Japan,Asia
+1972,Summer,Munich,West Germany,Europe
+1976,Winter,Innsbruck,Austria,Europe
+1976,Summer,Montreal,Canada,North America
+1980,Winter,Lake Placid,United States,North America
+1980,Summer,Moscow,Soviet Union,Europe
+1984,Winter,Sarajevo,Yugoslavia,Europe
+1984,Summer,Los Angeles,United States,North America
+1988,Winter,Calgary,Canada,North America
+1988,Summer,Seoul,South Korea,Asia
+1992,Winter,Albertville,France,Europe
+1992,Summer,Barcelona,Spain,Europe
+1994,Winter,Lillehammer,Norway,Europe
+1996,Summer,Atlanta,United States,North America
+1998,Winter,Nagano,Japan,Asia
+2000,Summer,Sydney,Australia,Oceania
+2002,Winter,Salt Lake City,United States,North America
+2004,Summer,Athens,Greece,Europe
+2006,Winter,Turin,Italy,Europe
+2008,Summer,Beijing,China,Asia
+2010,Winter,Vancouver,Canada,North America
+2012,Summer,London,United Kingdom,Europe
+2014,Winter,Sochi,Russia,Europe
+2016,Summer,Rio de Janeiro,Brazil,South America
+2018,Winter,Pyeongchang,South Korea,Asia
+2020,Summer,Tokyo,Japan,Asia
+2022,Winter,Beijing,China,Asia
+2024,Summer,Paris,France,Europe
