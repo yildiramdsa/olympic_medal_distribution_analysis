@@ -1,1045 +1,1045 @@
-,medal_date,medal_type,medal_code,gender,country_code,country,nationality,is_medallist
-0,2024-07-27,Gold Medal,1.0,Male,BEL,Belgium,Belgium,True
-1,2024-07-27,Silver Medal,2.0,Male,ITA,Italy,Italy,True
-2,2024-07-27,Bronze Medal,3.0,Male,BEL,Belgium,Belgium,True
-3,2024-07-27,Gold Medal,1.0,Female,AUS,Australia,Australia,True
-4,2024-07-27,Silver Medal,2.0,Female,GBR,Great Britain,Great Britain,True
-5,2024-07-27,Bronze Medal,3.0,Female,USA,United States,United States,True
-6,2024-07-27,Gold Medal,1.0,Male,KOR,Korea,Korea,True
-7,2024-07-27,Silver Medal,2.0,Male,TUN,Tunisia,Tunisia,True
-8,2024-07-27,Bronze Medal,3.0,Male,ITA,Italy,Italy,True
-9,2024-07-27,Gold Medal,1.0,Female,HKG,"Hong Kong, China","Hong Kong, China",True
-10,2024-07-27,Silver Medal,2.0,Female,FRA,France,France,True
-11,2024-07-27,Bronze Medal,3.0,Female,HUN,Hungary,Hungary,True
-12,2024-07-27,Gold Medal,1.0,Male,KAZ,Kazakhstan,Kazakhstan,True
-13,2024-07-27,Silver Medal,2.0,Male,FRA,France,France,True
-14,2024-07-27,Bronze Medal,3.0,Male,JPN,Japan,Japan,True
-15,2024-07-27,Bronze Medal,3.0,Male,ESP,Spain,Spain,True
-16,2024-07-27,Gold Medal,1.0,Female,JPN,Japan,Japan,True
-17,2024-07-27,Silver Medal,2.0,Female,MGL,Mongolia,Mongolia,True
-18,2024-07-27,Bronze Medal,3.0,Female,FRA,France,France,True
-19,2024-07-27,Bronze Medal,3.0,Female,SWE,Sweden,Sweden,True
-20,2024-07-27,Gold Medal,1.0,Male,GER,Germany,Germany,True
-21,2024-07-27,Silver Medal,2.0,Male,AUS,Australia,Australia,True
-22,2024-07-27,Bronze Medal,3.0,Male,KOR,Korea,Korea,True
-23,2024-07-27,Gold Medal,1.0,Female,AUS,Australia,Australia,True
-24,2024-07-27,Silver Medal,2.0,Female,CAN,Canada,Canada,True
-25,2024-07-27,Bronze Medal,3.0,Female,USA,United States,United States,True
-26,2024-07-28,Gold Medal,1.0,Female,AUS,Australia,Australia,True
-27,2024-07-28,Silver Medal,2.0,Female,POL,Poland,Poland,True
-28,2024-07-28,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-29,2024-07-28,Gold Medal,1.0,Female,FRA,France,France,True
-30,2024-07-28,Silver Medal,2.0,Female,USA,United States,United States,True
-31,2024-07-28,Bronze Medal,3.0,Female,SWE,Sweden,Sweden,True
-32,2024-07-28,Gold Medal,1.0,Male,JPN,Japan,Japan,True
-33,2024-07-28,Silver Medal,2.0,Male,FRA,France,France,True
-34,2024-07-28,Bronze Medal,3.0,Male,EGY,Egypt,Egypt,True
-35,2024-07-28,Gold Medal,1.0,Female,USA,United States,United States,True
-36,2024-07-28,Silver Medal,2.0,Female,USA,United States,United States,True
-37,2024-07-28,Bronze Medal,3.0,Female,CAN,Canada,Canada,True
-38,2024-07-28,Gold Medal,1.0,Male,JPN,Japan,Japan,True
-39,2024-07-28,Silver Medal,2.0,Male,BRA,Brazil,Brazil,True
-40,2024-07-28,Bronze Medal,3.0,Male,KAZ,Kazakhstan,Kazakhstan,True
-41,2024-07-28,Bronze Medal,3.0,Male,MDA,Republic of Moldova,Republic of Moldova,True
-42,2024-07-28,Gold Medal,1.0,Female,UZB,Uzbekistan,Uzbekistan,True
-43,2024-07-28,Silver Medal,2.0,Female,KOS,Kosovo,Kosovo,True
-44,2024-07-28,Bronze Medal,3.0,Female,BRA,Brazil,Brazil,True
-45,2024-07-28,Bronze Medal,3.0,Female,FRA,France,France,True
-46,2024-07-28,Gold Medal,1.0,Male,CHN,China,China,True
-47,2024-07-28,Silver Medal,2.0,Male,ITA,Italy,Italy,True
-48,2024-07-28,Bronze Medal,3.0,Male,ITA,Italy,Italy,True
-49,2024-07-28,Gold Medal,1.0,Female,KOR,Korea,Korea,True
-50,2024-07-28,Silver Medal,2.0,Female,KOR,Korea,Korea,True
-51,2024-07-28,Bronze Medal,3.0,Female,IND,India,India,True
-52,2024-07-28,Gold Medal,1.0,Female,JPN,Japan,Japan,True
-53,2024-07-28,Silver Medal,2.0,Female,JPN,Japan,Japan,True
-54,2024-07-28,Bronze Medal,3.0,Female,BRA,Brazil,Brazil,True
-55,2024-07-28,Gold Medal,1.0,Male,ITA,Italy,Italy,True
-56,2024-07-28,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True
-57,2024-07-28,Silver Medal,2.0,Male,USA,United States,United States,True
-58,2024-07-28,Gold Medal,1.0,Male,FRA,France,France,True
-59,2024-07-28,Silver Medal,2.0,Male,JPN,Japan,Japan,True
-60,2024-07-28,Bronze Medal,3.0,Male,USA,United States,United States,True
-61,2024-07-28,Gold Medal,1.0,Female,USA,United States,United States,True
-62,2024-07-28,Silver Medal,2.0,Female,USA,United States,United States,True
-63,2024-07-28,Bronze Medal,3.0,Female,CHN,China,China,True
-64,2024-07-29,Gold Medal,1.0,Male,FRA,France,France,True
-65,2024-07-29,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True
-66,2024-07-29,Bronze Medal,3.0,Male,SVK,Slovakia,Slovakia,True
-67,2024-07-29,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True
-68,2024-07-29,Silver Medal,2.0,Male,FRA,France,France,True
-69,2024-07-29,Bronze Medal,3.0,Male,RSA,South Africa,South Africa,True
-70,2024-07-29,Gold Medal,1.0,Male,GER,Germany,Germany,True
-71,2024-07-29,Silver Medal,2.0,Male,AUS,Australia,Australia,True
-72,2024-07-29,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-73,2024-07-29,Gold Medal,1.0,Male,HKG,"Hong Kong, China","Hong Kong, China",True
-74,2024-07-29,Silver Medal,2.0,Male,ITA,Italy,Italy,True
-75,2024-07-29,Bronze Medal,3.0,Male,USA,United States,United States,True
-76,2024-07-29,Gold Medal,1.0,Female,FRA,France,France,True
-77,2024-07-29,Silver Medal,2.0,Female,FRA,France,France,True
-78,2024-07-29,Bronze Medal,3.0,Female,UKR,Ukraine,Ukraine,True
-79,2024-07-29,Gold Medal,1.0,Male,AZE,Azerbaijan,Azerbaijan,True
-80,2024-07-29,Silver Medal,2.0,Male,FRA,France,France,True
-81,2024-07-29,Bronze Medal,3.0,Male,MDA,Republic of Moldova,Republic of Moldova,True
-82,2024-07-29,Bronze Medal,3.0,Male,JPN,Japan,Japan,True
-83,2024-07-29,Gold Medal,1.0,Female,CAN,Canada,Canada,True
-84,2024-07-29,Silver Medal,2.0,Female,KOR,Korea,Korea,True
-85,2024-07-29,Bronze Medal,3.0,Female,JPN,Japan,Japan,True
-86,2024-07-29,Bronze Medal,3.0,Female,FRA,France,France,True
-87,2024-07-29,Gold Medal,1.0,Male,CHN,China,China,True
-88,2024-07-29,Silver Medal,2.0,Male,SWE,Sweden,Sweden,True
-89,2024-07-29,Bronze Medal,3.0,Male,CRO,Croatia,Croatia,True
-90,2024-07-29,Gold Medal,1.0,Female,KOR,Korea,Korea,True
-91,2024-07-29,Silver Medal,2.0,Female,CHN,China,China,True
-92,2024-07-29,Bronze Medal,3.0,Female,SUI,Switzerland,Switzerland,True
-93,2024-07-29,Gold Medal,1.0,Male,JPN,Japan,Japan,True
-94,2024-07-29,Silver Medal,2.0,Male,USA,United States,United States,True
-95,2024-07-29,Bronze Medal,3.0,Male,USA,United States,United States,True
-96,2024-07-29,Gold Medal,1.0,Male,ITA,Italy,Italy,True
-97,2024-07-29,Silver Medal,2.0,Male,CHN,China,China,True
-98,2024-07-29,Bronze Medal,3.0,Male,USA,United States,United States,True
-99,2024-07-29,Gold Medal,1.0,Male,ROU,Romania,Romania,True
-100,2024-07-29,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True
-101,2024-07-29,Bronze Medal,3.0,Male,USA,United States,United States,True
-102,2024-07-29,Gold Medal,1.0,Female,RSA,South Africa,South Africa,True
-103,2024-07-29,Silver Medal,2.0,Female,CHN,China,China,True
-104,2024-07-29,Bronze Medal,3.0,Female,IRL,Ireland,Ireland,True
-105,2024-07-29,Gold Medal,1.0,Female,AUS,Australia,Australia,True
-106,2024-07-29,Silver Medal,2.0,Female,AUS,Australia,Australia,True
-107,2024-07-29,Bronze Medal,3.0,Female,HKG,"Hong Kong, China","Hong Kong, China",True
-108,2024-07-29,Gold Medal,1.0,Female,CAN,Canada,Canada,True
-109,2024-07-29,Silver Medal,2.0,Female,USA,United States,United States,True
-110,2024-07-29,Bronze Medal,3.0,Female,USA,United States,United States,True
-111,2024-07-30,Gold Medal,1.0,Male,JPN,Japan,Japan,True
-112,2024-07-30,Silver Medal,2.0,Male,GEO,Georgia,Georgia,True
-113,2024-07-30,Bronze Medal,3.0,Male,KOR,Korea,Korea,True
-114,2024-07-30,Bronze Medal,3.0,Male,TJK,Tajikistan,Tajikistan,True
-115,2024-07-30,Gold Medal,1.0,Female,SLO,Slovenia,Slovenia,True
-116,2024-07-30,Silver Medal,2.0,Female,MEX,Mexico,Mexico,True
-117,2024-07-30,Bronze Medal,3.0,Female,FRA,France,France,True
-118,2024-07-30,Bronze Medal,3.0,Female,KOS,Kosovo,Kosovo,True
-119,2024-07-30,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True
-120,2024-07-30,Silver Medal,2.0,Male,CHN,China,China,True
-121,2024-07-30,Bronze Medal,3.0,Male,GUA,Guatemala,Guatemala,True
-122,2024-07-30,Gold Medal,1.0,Male,IRL,Ireland,Ireland,True
-123,2024-07-30,Silver Medal,2.0,Male,USA,United States,United States,True
-124,2024-07-30,Bronze Medal,3.0,Male,ITA,Italy,Italy,True
-125,2024-07-30,Gold Medal,1.0,Female,AUS,Australia,Australia,True
-126,2024-07-30,Silver Medal,2.0,Female,USA,United States,United States,True
-127,2024-07-30,Bronze Medal,3.0,Female,USA,United States,United States,True
-128,2024-07-31,Gold Medal,1.0,Male,JPN,Japan,Japan,True
-129,2024-07-31,Silver Medal,2.0,Male,CHN,China,China,True
-130,2024-07-31,Bronze Medal,3.0,Male,CHN,China,China,True
-131,2024-07-31,Gold Medal,1.0,Female,AUS,Australia,Australia,True
-132,2024-07-31,Silver Medal,2.0,Female,GER,Germany,Germany,True
-133,2024-07-31,Bronze Medal,3.0,Female,USA,United States,United States,True
-134,2024-07-31,Gold Medal,1.0,Male,ARG,Argentina,Argentina,True
-135,2024-07-31,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True
-136,2024-07-31,Bronze Medal,3.0,Male,FRA,France,France,True
-137,2024-07-31,Gold Medal,1.0,Female,CHN,China,China,True
-138,2024-07-31,Silver Medal,2.0,Female,USA,United States,United States,True
-139,2024-07-31,Bronze Medal,3.0,Female,AUS,Australia,Australia,True
-140,2024-07-31,Gold Medal,1.0,Male,GEO,Georgia,Georgia,True
-141,2024-07-31,Silver Medal,2.0,Male,JPN,Japan,Japan,True
-142,2024-07-31,Bronze Medal,3.0,Male,FRA,France,France,True
-143,2024-07-31,Bronze Medal,3.0,Male,GRE,Greece,Greece,True
-144,2024-07-31,Gold Medal,1.0,Female,CRO,Croatia,Croatia,True
-145,2024-07-31,Silver Medal,2.0,Female,GER,Germany,Germany,True
-146,2024-07-31,Bronze Medal,3.0,Female,AUT,Austria,Austria,True
-147,2024-07-31,Bronze Medal,3.0,Female,BEL,Belgium,Belgium,True
-148,2024-07-31,Gold Medal,1.0,Female,GUA,Guatemala,Guatemala,True
-149,2024-07-31,Silver Medal,2.0,Female,ITA,Italy,Italy,True
-150,2024-07-31,Bronze Medal,3.0,Female,AUS,Australia,Australia,True
-151,2024-07-31,Gold Medal,1.0,Male,CHN,China,China,True
-152,2024-07-31,Silver Medal,2.0,Male,AUS,Australia,Australia,True
-153,2024-07-31,Bronze Medal,3.0,Male,ROU,Romania,Romania,True
-154,2024-07-31,Gold Medal,1.0,Male,FRA,France,France,True
-155,2024-07-31,Silver Medal,2.0,Male,AUS,Australia,Australia,True
-156,2024-07-31,Bronze Medal,3.0,Male,NED,Netherlands,Netherlands,True
-157,2024-07-31,Gold Medal,1.0,Male,FRA,France,France,True
-158,2024-07-31,Silver Medal,2.0,Male,HUN,Hungary,Hungary,True
-159,2024-07-31,Bronze Medal,3.0,Male,CAN,Canada,Canada,True
-160,2024-07-31,Gold Medal,1.0,Female,SWE,Sweden,Sweden,True
-161,2024-07-31,Silver Medal,2.0,Female,USA,United States,United States,True
-162,2024-07-31,Bronze Medal,3.0,Female,HKG,"Hong Kong, China","Hong Kong, China",True
-163,2024-07-31,Gold Medal,1.0,Female,USA,United States,United States,True
-164,2024-07-31,Silver Medal,2.0,Female,FRA,France,France,True
-165,2024-07-31,Bronze Medal,3.0,Female,GER,Germany,Germany,True
-166,2024-07-31,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True
-167,2024-07-31,Silver Medal,2.0,Male,NZL,New Zealand,New Zealand,True
-168,2024-07-31,Bronze Medal,3.0,Male,FRA,France,France,True
-169,2024-07-31,Gold Medal,1.0,Female,FRA,France,France,True
-170,2024-07-31,Silver Medal,2.0,Female,SUI,Switzerland,Switzerland,True
-171,2024-07-31,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-172,2024-08-01,Gold Medal,1.0,Female,USA,United States,United States,True
-173,2024-08-01,Silver Medal,2.0,Female,BRA,Brazil,Brazil,True
-174,2024-08-01,Bronze Medal,3.0,Female,USA,United States,United States,True
-175,2024-08-01,Gold Medal,1.0,Male,ECU,Ecuador,Ecuador,True
-176,2024-08-01,Silver Medal,2.0,Male,BRA,Brazil,Brazil,True
-177,2024-08-01,Bronze Medal,3.0,Male,ESP,Spain,Spain,True
-178,2024-08-01,Gold Medal,1.0,Female,CHN,China,China,True
-179,2024-08-01,Silver Medal,2.0,Female,ESP,Spain,Spain,True
-180,2024-08-01,Bronze Medal,3.0,Female,AUS,Australia,Australia,True
-181,2024-08-01,Gold Medal,1.0,Male,ITA,Italy,Italy,True
-182,2024-08-01,Silver Medal,2.0,Male,FRA,France,France,True
-183,2024-08-01,Bronze Medal,3.0,Male,ESP,Spain,Spain,True
-184,2024-08-01,Gold Medal,1.0,Male,AZE,Azerbaijan,Azerbaijan,True
-185,2024-08-01,Silver Medal,2.0,Male,GEO,Georgia,Georgia,True
-186,2024-08-01,Bronze Medal,3.0,Male,ISR,Israel,Israel,True
-187,2024-08-01,Bronze Medal,3.0,Male,UZB,Uzbekistan,Uzbekistan,True
-188,2024-08-01,Gold Medal,1.0,Female,ITA,Italy,Italy,True
-189,2024-08-01,Silver Medal,2.0,Female,ISR,Israel,Israel,True
-190,2024-08-01,Bronze Medal,3.0,Female,CHN,China,China,True
-191,2024-08-01,Bronze Medal,3.0,Female,POR,Portugal,Portugal,True
-192,2024-08-01,Gold Medal,1.0,Male,CHN,China,China,True
-193,2024-08-01,Silver Medal,2.0,Male,UKR,Ukraine,Ukraine,True
-194,2024-08-01,Bronze Medal,3.0,Male,IND,India,India,True
-195,2024-08-01,Gold Medal,1.0,Male,HUN,Hungary,Hungary,True
-196,2024-08-01,Silver Medal,2.0,Male,GRE,Greece,Greece,True
-197,2024-08-01,Bronze Medal,3.0,Male,SUI,Switzerland,Switzerland,True
-198,2024-08-01,Gold Medal,1.0,Female,USA,United States,United States,True
-199,2024-08-01,Silver Medal,2.0,Female,RSA,South Africa,South Africa,True
-200,2024-08-01,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True
-201,2024-08-01,Gold Medal,1.0,Female,CAN,Canada,Canada,True
-202,2024-08-01,Silver Medal,2.0,Female,USA,United States,United States,True
-203,2024-08-01,Bronze Medal,3.0,Female,CHN,China,China,True
-204,2024-08-02,Gold Medal,1.0,Male,UGA,Uganda,Uganda,True
-205,2024-08-02,Silver Medal,2.0,Male,ETH,Ethiopia,Ethiopia,True
-206,2024-08-02,Bronze Medal,3.0,Male,USA,United States,United States,True
-207,2024-08-02,Gold Medal,1.0,Male,FRA,France,France,True
-208,2024-08-02,Silver Medal,2.0,Male,FRA,France,France,True
-209,2024-08-02,Bronze Medal,3.0,Male,FRA,France,France,True
-210,2024-08-02,Gold Medal,1.0,Female,AUS,Australia,Australia,True
-211,2024-08-02,Silver Medal,2.0,Female,NED,Netherlands,Netherlands,True
-212,2024-08-02,Bronze Medal,3.0,Female,SUI,Switzerland,Switzerland,True
-213,2024-08-02,Gold Medal,1.0,Male,FRA,France,France,True
-214,2024-08-02,Silver Medal,2.0,Male,KOR,Korea,Korea,True
-215,2024-08-02,Bronze Medal,3.0,Male,TJK,Tajikistan,Tajikistan,True
-216,2024-08-02,Bronze Medal,3.0,Male,UZB,Uzbekistan,Uzbekistan,True
-217,2024-08-02,Gold Medal,1.0,Female,BRA,Brazil,Brazil,True
-218,2024-08-02,Silver Medal,2.0,Female,ISR,Israel,Israel,True
-219,2024-08-02,Bronze Medal,3.0,Female,KOR,Korea,Korea,True
-220,2024-08-02,Bronze Medal,3.0,Female,FRA,France,France,True
-221,2024-08-02,Gold Medal,1.0,Female,SUI,Switzerland,Switzerland,True
-222,2024-08-02,Silver Medal,2.0,Female,USA,United States,United States,True
-223,2024-08-02,Bronze Medal,3.0,Female,CHN,China,China,True
-224,2024-08-02,Gold Medal,1.0,Male,FRA,France,France,True
-225,2024-08-02,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True
-226,2024-08-02,Bronze Medal,3.0,Male,CHN,China,China,True
-227,2024-08-02,Gold Medal,1.0,Male,AUS,Australia,Australia,True
-228,2024-08-02,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True
-229,2024-08-02,Bronze Medal,3.0,Male,FRA,France,France,True
-230,2024-08-02,Gold Medal,1.0,Female,AUS,Australia,Australia,True
-231,2024-08-02,Silver Medal,2.0,Female,USA,United States,United States,True
-232,2024-08-02,Bronze Medal,3.0,Female,CAN,Canada,Canada,True
-233,2024-08-02,Bronze Medal,3.0,Female,POL,Poland,Poland,True
-234,2024-08-02,Gold Medal,1.0,Male,AIN,AIN,Belarus,True
-235,2024-08-02,Silver Medal,2.0,Male,CHN,China,China,True
-236,2024-08-02,Bronze Medal,3.0,Male,CHN,China,China,True
-237,2024-08-02,Gold Medal,1.0,Female,GBR,Great Britain,Great Britain,True
-238,2024-08-02,Silver Medal,2.0,Female,AIN,AIN,Belarus,True
-239,2024-08-02,Bronze Medal,3.0,Female,CAN,Canada,Canada,True
-240,2024-08-03,Gold Medal,1.0,Female,KOR,Korea,Korea,True
-241,2024-08-03,Silver Medal,2.0,Female,KOR,Korea,Korea,True
-242,2024-08-03,Bronze Medal,3.0,Female,FRA,France,France,True
-243,2024-08-03,Gold Medal,1.0,Male,PHI,Philippines,Philippines,True
-244,2024-08-03,Silver Medal,2.0,Male,ISR,Israel,Israel,True
-245,2024-08-03,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True
-246,2024-08-03,Gold Medal,1.0,Male,IRL,Ireland,Ireland,True
-247,2024-08-03,Silver Medal,2.0,Male,KAZ,Kazakhstan,Kazakhstan,True
-248,2024-08-03,Bronze Medal,3.0,Male,USA,United States,United States,True
-249,2024-08-03,Gold Medal,1.0,Female,USA,United States,United States,True
-250,2024-08-03,Silver Medal,2.0,Female,BRA,Brazil,Brazil,True
-251,2024-08-03,Bronze Medal,3.0,Female,USA,United States,United States,True
-252,2024-08-03,Gold Medal,1.0,Male,NOR,Norway,Norway,True
-253,2024-08-03,Silver Medal,2.0,Male,GER,Germany,Germany,True
-254,2024-08-03,Bronze Medal,3.0,Male,GRN,Grenada,Grenada,True
-255,2024-08-03,Gold Medal,1.0,Male,USA,United States,United States,True
-256,2024-08-03,Silver Medal,2.0,Male,USA,United States,United States,True
-257,2024-08-03,Bronze Medal,3.0,Male,JAM,Jamaica,Jamaica,True
-258,2024-08-03,Gold Medal,1.0,Female,LCA,Saint Lucia,Saint Lucia,True
-259,2024-08-03,Silver Medal,2.0,Female,USA,United States,United States,True
-260,2024-08-03,Bronze Medal,3.0,Female,USA,United States,United States,True
-261,2024-08-03,Gold Medal,1.0,Female,DMA,Dominica,Dominica,True
-262,2024-08-03,Silver Medal,2.0,Female,JAM,Jamaica,Jamaica,True
-263,2024-08-03,Bronze Medal,3.0,Female,USA,United States,United States,True
-264,2024-08-03,Bronze Medal,3.0,Female,TPE,Chinese Taipei,Chinese Taipei,True
-265,2024-08-03,Bronze Medal,3.0,Female,BRA,Brazil,Brazil,True
-266,2024-08-03,Gold Medal,1.0,Male,BEL,Belgium,Belgium,True
-267,2024-08-03,Silver Medal,2.0,Male,FRA,France,France,True
-268,2024-08-03,Bronze Medal,3.0,Male,FRA,France,France,True
-269,2024-08-03,Gold Medal,1.0,Male,GER,Germany,Germany,True
-270,2024-08-03,Silver Medal,2.0,Male,AIN,AIN,Belarus,True
-271,2024-08-03,Bronze Medal,3.0,Male,NED,Netherlands,Netherlands,True
-272,2024-08-03,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True
-273,2024-08-03,Silver Medal,2.0,Female,NZL,New Zealand,New Zealand,True
-274,2024-08-03,Bronze Medal,3.0,Female,LTU,Lithuania,Lithuania,True
-275,2024-08-03,Gold Medal,1.0,Male,ISR,Israel,Israel,True
-276,2024-08-03,Silver Medal,2.0,Male,AUS,Australia,Australia,True
-277,2024-08-03,Bronze Medal,3.0,Male,NED,Netherlands,Netherlands,True
-278,2024-08-03,Gold Medal,1.0,Female,ITA,Italy,Italy,True
-279,2024-08-03,Silver Medal,2.0,Female,ISR,Israel,Israel,True
-280,2024-08-03,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-281,2024-08-03,Gold Medal,1.0,Female,KOR,Korea,Korea,True
-282,2024-08-03,Silver Medal,2.0,Female,FRA,France,France,True
-283,2024-08-03,Bronze Medal,3.0,Female,HUN,Hungary,Hungary,True
-284,2024-08-03,Gold Medal,1.0,Male,USA,United States,United States,True
-285,2024-08-03,Silver Medal,2.0,Male,USA,United States,United States,True
-286,2024-08-03,Bronze Medal,3.0,Male,TPE,Chinese Taipei,Chinese Taipei,True
-287,2024-08-03,Gold Medal,1.0,Male,HUN,Hungary,Hungary,True
-288,2024-08-03,Silver Medal,2.0,Male,CAN,Canada,Canada,True
-289,2024-08-03,Bronze Medal,3.0,Male,CAN,Canada,Canada,True
-290,2024-08-03,Gold Medal,1.0,Female,CAN,Canada,Canada,True
-291,2024-08-03,Silver Medal,2.0,Female,USA,United States,United States,True
-292,2024-08-03,Bronze Medal,3.0,Female,AUS,Australia,Australia,True
-293,2024-08-03,Gold Medal,1.0,Female,USA,United States,United States,True
-294,2024-08-03,Silver Medal,2.0,Female,AUS,Australia,Australia,True
-295,2024-08-03,Bronze Medal,3.0,Female,USA,United States,United States,True
-296,2024-08-03,Gold Medal,1.0,Female,CHN,China,China,True
-297,2024-08-03,Silver Medal,2.0,Female,CHN,China,China,True
-298,2024-08-03,Bronze Medal,3.0,Female,JPN,Japan,Japan,True
-299,2024-08-03,Bronze Medal,3.0,Male,ITA,Italy,Italy,True
-300,2024-08-03,Gold Medal,1.0,Female,CHN,China,China,True
-301,2024-08-03,Silver Medal,2.0,Female,CRO,Croatia,Croatia,True
-302,2024-08-04,Gold Medal,1.0,Male,KOR,Korea,Korea,True
-303,2024-08-04,Silver Medal,2.0,Male,USA,United States,United States,True
-304,2024-08-04,Bronze Medal,3.0,Male,KOR,Korea,Korea,True
-305,2024-08-04,Gold Medal,1.0,Male,CHN,China,China,True
-306,2024-08-04,Silver Medal,2.0,Male,CHN,China,China,True
-307,2024-08-04,Bronze Medal,3.0,Male,GRE,Greece,Greece,True
-308,2024-08-04,Gold Medal,1.0,Male,PHI,Philippines,Philippines,True
-309,2024-08-04,Silver Medal,2.0,Male,ARM,Armenia,Armenia,True
-310,2024-08-04,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True
-311,2024-08-04,Gold Medal,1.0,Female,ALG,Algeria,Algeria,True
-312,2024-08-04,Silver Medal,2.0,Female,CHN,China,China,True
-313,2024-08-04,Bronze Medal,3.0,Female,USA,United States,United States,True
-314,2024-08-04,Gold Medal,1.0,Male,USA,United States,United States,True
-315,2024-08-04,Silver Medal,2.0,Male,JAM,Jamaica,Jamaica,True
-316,2024-08-04,Bronze Medal,3.0,Male,USA,United States,United States,True
-317,2024-08-04,Gold Medal,1.0,Male,CAN,Canada,Canada,True
-318,2024-08-04,Silver Medal,2.0,Male,HUN,Hungary,Hungary,True
-319,2024-08-04,Bronze Medal,3.0,Male,UKR,Ukraine,Ukraine,True
-320,2024-08-04,Gold Medal,1.0,Female,UKR,Ukraine,Ukraine,True
-321,2024-08-04,Silver Medal,2.0,Female,AUS,Australia,Australia,True
-322,2024-08-04,Bronze Medal,3.0,Female,UKR,Ukraine,Ukraine,True
-323,2024-08-04,Bronze Medal,3.0,Female,AUS,Australia,Australia,True
-324,2024-08-04,Bronze Medal,,Female,INA,Indonesia,Indonesia,True
-325,2024-08-04,Bronze Medal,3.0,Male,DOM,Dominican Republic,Dominican Republic,True
-326,2024-08-04,Bronze Medal,3.0,Male,CPV,Cabo Verde,Cabo Verde,True
-327,2024-08-04,Bronze Medal,3.0,Male,CAN,Canada,Canada,True
-328,2024-08-04,Bronze Medal,3.0,Male,GEO,Georgia,Georgia,True
-329,2024-08-04,Bronze Medal,3.0,Male,DOM,Dominican Republic,Dominican Republic,True
-330,2024-08-04,Bronze Medal,3.0,Male,CUB,Cuba,Cuba,True
-331,2024-08-04,Bronze Medal,3.0,Male,ESP,Spain,Spain,True
-332,2024-08-04,Bronze Medal,3.0,Male,TJK,Tajikistan,Tajikistan,True
-333,2024-08-04,Bronze Medal,3.0,Female,PRK,DPR Korea,DPR Korea,True
-334,2024-08-04,Bronze Medal,3.0,Female,KOR,Korea,Korea,True
-335,2024-08-04,Gold Medal,1.0,Female,USA,United States,United States,True
-336,2024-08-04,Silver Medal,2.0,Female,NED,Netherlands,Netherlands,True
-337,2024-08-04,Bronze Medal,3.0,Female,BEL,Belgium,Belgium,True
-338,2024-08-04,Gold Medal,1.0,Female,GER,Germany,Germany,True
-339,2024-08-04,Silver Medal,2.0,Female,GER,Germany,Germany,True
-340,2024-08-04,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-341,2024-08-04,Gold Medal,1.0,Male,USA,United States,United States,True
-342,2024-08-04,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True
-343,2024-08-04,Bronze Medal,3.0,Male,JPN,Japan,Japan,True
-344,2024-08-04,Gold Medal,1.0,Female,CHI,Chile,Chile,True
-345,2024-08-04,Silver Medal,2.0,Female,GBR,Great Britain,Great Britain,True
-346,2024-08-04,Bronze Medal,3.0,Female,USA,United States,United States,True
-347,2024-08-04,Gold Medal,1.0,Male,USA,United States,United States,True
-348,2024-08-04,Silver Medal,2.0,Male,ITA,Italy,Italy,True
-349,2024-08-04,Bronze Medal,3.0,Male,IRL,Ireland,Ireland,True
-350,2024-08-04,Gold Medal,1.0,Female,SWE,Sweden,Sweden,True
-351,2024-08-04,Silver Medal,2.0,Female,AUS,Australia,Australia,True
-352,2024-08-04,Bronze Medal,3.0,Female,CHN,China,China,True
-353,2024-08-04,Gold Medal,1.0,Male,CHN,China,China,True
-354,2024-08-04,Silver Medal,2.0,Male,SWE,Sweden,Sweden,True
-355,2024-08-04,Bronze Medal,3.0,Male,FRA,France,France,True
-356,2024-08-04,Gold Medal,1.0,Male,SRB,Serbia,Serbia,True
-357,2024-08-04,Silver Medal,2.0,Male,ESP,Spain,Spain,True
-358,2024-08-05,Gold Medal,1.0,Male,JPN,Japan,Japan,True
-359,2024-08-05,Silver Medal,2.0,Male,COL,Colombia,Colombia,True
-360,2024-08-05,Bronze Medal,3.0,Male,CHN,China,China,True
-361,2024-08-05,Bronze Medal,3.0,Male,TPE,Chinese Taipei,Chinese Taipei,True
-362,2024-08-05,Gold Medal,1.0,Male,CHN,China,China,True
-363,2024-08-05,Silver Medal,2.0,Male,UKR,Ukraine,Ukraine,True
-364,2024-08-05,Bronze Medal,3.0,Male,JPN,Japan,Japan,True
-365,2024-08-05,Gold Medal,1.0,Female,ITA,Italy,Italy,True
-366,2024-08-05,Silver Medal,2.0,Female,CHN,China,China,True
-367,2024-08-05,Bronze Medal,3.0,Female,ITA,Italy,Italy,True
-368,2024-08-05,Gold Medal,1.0,Female,BRA,Brazil,Brazil,True
-369,2024-08-05,Silver Medal,2.0,Female,USA,United States,United States,True
-370,2024-08-05,Bronze Medal,3.0,Female,ROU,Romania,Romania,True
-371,2024-08-05,Gold Medal,1.0,Male,SWE,Sweden,Sweden,True
-372,2024-08-05,Silver Medal,2.0,Male,USA,United States,United States,True
-373,2024-08-05,Bronze Medal,3.0,Male,GRE,Greece,Greece,True
-374,2024-08-05,Gold Medal,1.0,Female,KEN,Kenya,Kenya,True
-375,2024-08-05,Silver Medal,2.0,Female,KEN,Kenya,Kenya,True
-376,2024-08-05,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True
-377,2024-08-05,Gold Medal,1.0,Female,GBR,Great Britain,Great Britain,True
-378,2024-08-05,Silver Medal,2.0,Female,ETH,Ethiopia,Ethiopia,True
-379,2024-08-05,Bronze Medal,3.0,Female,KEN,Kenya,Kenya,True
-380,2024-08-05,Gold Medal,1.0,Female,USA,United States,United States,True
-381,2024-08-05,Silver Medal,2.0,Female,CHN,China,China,True
-382,2024-08-05,Bronze Medal,3.0,Female,CRO,Croatia,Croatia,True
-383,2024-08-05,Gold Medal,1.0,Male,DEN,Denmark,Denmark,True
-384,2024-08-05,Silver Medal,2.0,Male,THA,Thailand,Thailand,True
-385,2024-08-05,Bronze Medal,3.0,Male,MAS,Malaysia,Malaysia,True
-386,2024-08-05,Gold Medal,1.0,Female,KOR,Korea,Korea,True
-387,2024-08-05,Silver Medal,2.0,Female,CHN,China,China,True
-388,2024-08-05,Gold Medal,1.0,Male,NZL,New Zealand,New Zealand,True
-389,2024-08-05,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True
-390,2024-08-05,Bronze Medal,3.0,Male,GER,Germany,Germany,True
-391,2024-08-05,Gold Medal,1.0,Female,AUS,Australia,Australia,True
-392,2024-08-05,Silver Medal,2.0,Female,FRA,France,France,True
-393,2024-08-05,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-394,2024-08-05,Gold Medal,1.0,Male,CHN,China,China,True
-395,2024-08-05,Silver Medal,2.0,Male,KOR,Korea,Korea,True
-396,2024-08-05,Bronze Medal,3.0,Male,CHN,China,China,True
-397,2024-08-05,Gold Medal,1.0,Male,FRA,France,France,True
-398,2024-08-05,Silver Medal,2.0,Male,AUS,Australia,Australia,True
-399,2024-08-05,Bronze Medal,3.0,Male,BRA,Brazil,Brazil,True
-400,2024-08-05,Gold Medal,1.0,Female,USA,United States,United States,True
-401,2024-08-05,Silver Medal,2.0,Female,BRA,Brazil,Brazil,True
-402,2024-08-05,Bronze Medal,3.0,Female,FRA,France,France,True
-403,2024-08-06,Gold Medal,1.0,Male,USA,United States,United States,True
-404,2024-08-06,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True
-405,2024-08-06,Bronze Medal,3.0,Male,USA,United States,United States,True
-406,2024-08-06,Gold Medal,1.0,Male,GRE,Greece,Greece,True
-407,2024-08-06,Silver Medal,2.0,Male,JAM,Jamaica,Jamaica,True
-408,2024-08-06,Bronze Medal,3.0,Male,ITA,Italy,Italy,True
-409,2024-08-06,Gold Medal,1.0,Female,USA,United States,United States,True
-410,2024-08-06,Silver Medal,2.0,Female,LCA,Saint Lucia,Saint Lucia,True
-411,2024-08-06,Bronze Medal,3.0,Female,USA,United States,United States,True
-412,2024-08-06,Gold Medal,1.0,Female,BRN,Bahrain,Bahrain,True
-413,2024-08-06,Silver Medal,2.0,Female,UGA,Uganda,Uganda,True
-414,2024-08-06,Bronze Medal,3.0,Female,KEN,Kenya,Kenya,True
-415,2024-08-06,Gold Medal,1.0,Female,CAN,Canada,Canada,True
-416,2024-08-06,Silver Medal,2.0,Female,USA,United States,United States,True
-417,2024-08-06,Bronze Medal,3.0,Female,CHN,China,China,True
-418,2024-08-06,Bronze Medal,3.0,Male,USA,United States,United States,True
-419,2024-08-06,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True
-420,2024-08-06,Bronze Medal,3.0,Female,KAZ,Kazakhstan,Kazakhstan,True
-421,2024-08-06,Bronze Medal,3.0,Female,PHI,Philippines,Philippines,True
-422,2024-08-06,Gold Medal,1.0,Female,IRL,Ireland,Ireland,True
-423,2024-08-06,Silver Medal,2.0,Female,CHN,China,China,True
-424,2024-08-06,Bronze Medal,3.0,Female,THA,Thailand,Thailand,True
-425,2024-08-06,Bronze Medal,3.0,Female,TPE,Chinese Taipei,Chinese Taipei,True
-426,2024-08-06,Gold Medal,1.0,Female,CHN,China,China,True
-427,2024-08-06,Silver Medal,2.0,Female,CHN,China,China,True
-428,2024-08-06,Bronze Medal,3.0,Female,PRK,DPR Korea,DPR Korea,True
-429,2024-08-06,Gold Medal,1.0,Male,GER,Germany,Germany,True
-430,2024-08-06,Silver Medal,2.0,Male,SUI,Switzerland,Switzerland,True
-431,2024-08-06,Bronze Medal,3.0,Male,NED,Netherlands,Netherlands,True
-432,2024-08-06,Gold Medal,1.0,Female,AUS,Australia,Australia,True
-433,2024-08-06,Silver Medal,2.0,Female,JPN,Japan,Japan,True
-434,2024-08-06,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-435,2024-08-06,Gold Medal,1.0,Male,CUB,Cuba,Cuba,True
-436,2024-08-06,Silver Medal,2.0,Male,CHI,Chile,Chile,True
-437,2024-08-06,Bronze Medal,3.0,Male,IRI,IR Iran,IR Iran,True
-438,2024-08-06,Bronze Medal,3.0,Male,CHN,China,China,True
-439,2024-08-06,Gold Medal,1.0,Male,JPN,Japan,Japan,True
-440,2024-08-06,Silver Medal,2.0,Male,CHN,China,China,True
-441,2024-08-06,Bronze Medal,3.0,Male,KGZ,Kyrgyzstan,Kyrgyzstan,True
-442,2024-08-06,Bronze Medal,3.0,Male,PRK,DPR Korea,DPR Korea,True
-443,2024-08-06,Gold Medal,1.0,Female,USA,United States,United States,True
-444,2024-08-06,Silver Medal,2.0,Female,KGZ,Kyrgyzstan,Kyrgyzstan,True
-445,2024-08-06,Bronze Medal,3.0,Female,TUR,Türkiye,Türkiye,True
-446,2024-08-06,Bronze Medal,3.0,Female,JPN,Japan,Japan,True
-447,2024-08-07,Gold Medal,1.0,Male,MAR,Morocco,Morocco,True
-448,2024-08-07,Silver Medal,2.0,Male,USA,United States,United States,True
-449,2024-08-07,Bronze Medal,3.0,Male,KEN,Kenya,Kenya,True
-450,2024-08-07,Gold Medal,1.0,Male,USA,United States,United States,True
-451,2024-08-07,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True
-452,2024-08-07,Bronze Medal,3.0,Male,ZAM,Zambia,Zambia,True
-453,2024-08-07,Gold Medal,1.0,Male,JAM,Jamaica,Jamaica,True
-454,2024-08-07,Silver Medal,2.0,Male,LTU,Lithuania,Lithuania,True
-455,2024-08-07,Bronze Medal,3.0,Male,AUS,Australia,Australia,True
-456,2024-08-07,Gold Medal,1.0,Female,AUS,Australia,Australia,True
-457,2024-08-07,Silver Medal,2.0,Female,USA,United States,United States,True
-458,2024-08-07,Bronze Medal,3.0,Female,CAN,Canada,Canada,True
-459,2024-08-07,Bronze Medal,3.0,Male,GER,Germany,Germany,True
-460,2024-08-07,Bronze Medal,3.0,Male,FRA,France,France,True
-461,2024-08-07,Gold Medal,1.0,Male,CUB,Cuba,Cuba,True
-462,2024-08-07,Silver Medal,2.0,Male,FRA,France,France,True
-463,2024-08-07,Gold Medal,1.0,Male,UKR,Ukraine,Ukraine,True
-464,2024-08-07,Silver Medal,2.0,Male,KAZ,Kazakhstan,Kazakhstan,True
-465,2024-08-07,Bronze Medal,3.0,Female,TUR,Türkiye,Türkiye,True
-466,2024-08-07,Bronze Medal,3.0,Female,PHI,Philippines,Philippines,True
-467,2024-08-07,Gold Medal,1.0,Male,AUS,Australia,Australia,True
-468,2024-08-07,Silver Medal,2.0,Male,CYP,Cyprus,Cyprus,True
-469,2024-08-07,Bronze Medal,3.0,Male,PER,Peru,Peru,True
-470,2024-08-07,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True
-471,2024-08-07,Silver Medal,2.0,Female,DEN,Denmark,Denmark,True
-472,2024-08-07,Bronze Medal,3.0,Female,NOR,Norway,Norway,True
-473,2024-08-07,Gold Medal,1.0,Male,AUS,Australia,Australia,True
-474,2024-08-07,Silver Medal,2.0,Male,USA,United States,United States,True
-475,2024-08-07,Bronze Medal,3.0,Male,BRA,Brazil,Brazil,True
-476,2024-08-07,Gold Medal,1.0,Female,POL,Poland,Poland,True
-477,2024-08-07,Silver Medal,2.0,Female,CHN,China,China,True
-478,2024-08-07,Bronze Medal,3.0,Female,POL,Poland,Poland,True
-479,2024-08-07,Gold Medal,1.0,Male,KOR,Korea,Korea,True
-480,2024-08-07,Silver Medal,2.0,Male,AZE,Azerbaijan,Azerbaijan,True
-481,2024-08-07,Bronze Medal,3.0,Male,FRA,France,France,True
-482,2024-08-07,Bronze Medal,3.0,Male,TUN,Tunisia,Tunisia,True
-483,2024-08-07,Gold Medal,1.0,Female,THA,Thailand,Thailand,True
-484,2024-08-07,Silver Medal,2.0,Female,CHN,China,China,True
-485,2024-08-07,Bronze Medal,3.0,Female,IRI,IR Iran,IR Iran,True
-486,2024-08-07,Bronze Medal,3.0,Female,CRO,Croatia,Croatia,True
-487,2024-08-07,Gold Medal,1.0,Male,CHN,China,China,True
-488,2024-08-07,Silver Medal,2.0,Male,THA,Thailand,Thailand,True
-489,2024-08-07,Bronze Medal,3.0,Male,USA,United States,United States,True
-490,2024-08-07,Gold Medal,1.0,Female,CHN,China,China,True
-491,2024-08-07,Silver Medal,2.0,Female,ROU,Romania,Romania,True
-492,2024-08-07,Bronze Medal,3.0,Female,THA,Thailand,Thailand,True
-493,2024-08-07,Gold Medal,1.0,Male,JPN,Japan,Japan,True
-494,2024-08-07,Silver Medal,2.0,Male,KAZ,Kazakhstan,Kazakhstan,True
-495,2024-08-07,Bronze Medal,3.0,Male,ARM,Armenia,Armenia,True
-496,2024-08-07,Bronze Medal,3.0,Male,KGZ,Kyrgyzstan,Kyrgyzstan,True
-497,2024-08-07,Gold Medal,1.0,Male,IRI,IR Iran,IR Iran,True
-498,2024-08-07,Silver Medal,2.0,Male,ARM,Armenia,Armenia,True
-499,2024-08-07,Bronze Medal,3.0,Male,CUB,Cuba,Cuba,True
-500,2024-08-07,Bronze Medal,3.0,Male,KGZ,Kyrgyzstan,Kyrgyzstan,True
-501,2024-08-07,Gold Medal,1.0,Female,USA,United States,United States,True
-502,2024-08-07,Silver Medal,2.0,Female,CUB,Cuba,Cuba,True
-503,2024-08-07,Bronze Medal,3.0,Female,JPN,Japan,Japan,True
-504,2024-08-07,Bronze Medal,3.0,Female,CHN,China,China,True
-505,2024-08-08,Gold Medal,1.0,Male,USA,United States,United States,True
-506,2024-08-08,Silver Medal,2.0,Male,USA,United States,United States,True
-507,2024-08-08,Bronze Medal,3.0,Male,JAM,Jamaica,Jamaica,True
-508,2024-08-08,Gold Medal,1.0,Male,BOT,Botswana,Botswana,True
-509,2024-08-08,Silver Medal,2.0,Male,USA,United States,United States,True
-510,2024-08-08,Bronze Medal,3.0,Male,USA,United States,United States,True
-511,2024-08-08,Gold Medal,1.0,Male,PAK,Pakistan,Pakistan,True
-512,2024-08-08,Silver Medal,2.0,Male,IND,India,India,True
-513,2024-08-08,Bronze Medal,3.0,Male,GRN,Grenada,Grenada,True
-514,2024-08-08,Gold Medal,1.0,Female,USA,United States,United States,True
-515,2024-08-08,Silver Medal,2.0,Female,USA,United States,United States,True
-516,2024-08-08,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True
-517,2024-08-08,Gold Medal,1.0,Female,USA,United States,United States,True
-518,2024-08-08,Silver Medal,2.0,Female,GER,Germany,Germany,True
-519,2024-08-08,Bronze Medal,3.0,Female,USA,United States,United States,True
-520,2024-08-08,Gold Medal,1.0,Male,UZB,Uzbekistan,Uzbekistan,True
-521,2024-08-08,Silver Medal,2.0,Male,FRA,France,France,True
-522,2024-08-08,Bronze Medal,3.0,Male,AUS,Australia,Australia,True
-523,2024-08-08,Bronze Medal,3.0,Male,BUL,Bulgaria,Bulgaria,True
-524,2024-08-08,Gold Medal,1.0,Female,CHN,China,China,True
-525,2024-08-08,Silver Medal,2.0,Female,TUR,Türkiye,Türkiye,True
-526,2024-08-08,Bronze Medal,3.0,Female,AUS,Australia,Australia,True
-527,2024-08-08,Bronze Medal,3.0,Female,EOR,EOR,Cameroon,True
-528,2024-08-08,Gold Medal,1.0,Male,FRA,France,France,True
-529,2024-08-08,Silver Medal,2.0,Male,POR,Portugal,Portugal,True
-530,2024-08-08,Bronze Medal,3.0,Male,BEL,Belgium,Belgium,True
-531,2024-08-08,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True
-532,2024-08-08,Silver Medal,2.0,Female,NED,Netherlands,Netherlands,True
-533,2024-08-08,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-534,2024-08-08,Gold Medal,1.0,Male,CHN,China,China,True
-535,2024-08-08,Silver Medal,2.0,Male,CHN,China,China,True
-536,2024-08-08,Bronze Medal,3.0,Male,MEX,Mexico,Mexico,True
-537,2024-08-08,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True
-538,2024-08-08,Silver Medal,2.0,Female,AUS,Australia,Australia,True
-539,2024-08-08,Bronze Medal,3.0,Female,ITA,Italy,Italy,True
-540,2024-08-08,Gold Medal,1.0,Female,GBR,Great Britain,Great Britain,True
-541,2024-08-08,Silver Medal,2.0,Female,FRA,France,France,True
-542,2024-08-08,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True
-543,2024-08-08,Gold Medal,1.0,Male,INA,Indonesia,Indonesia,True
-544,2024-08-08,Silver Medal,2.0,Male,CHN,China,China,True
-545,2024-08-08,Bronze Medal,3.0,Male,USA,United States,United States,True
-546,2024-08-08,Gold Medal,1.0,Male,UZB,Uzbekistan,Uzbekistan,True
-547,2024-08-08,Silver Medal,2.0,Male,JOR,Jordan,Jordan,True
-548,2024-08-08,Bronze Medal,3.0,Male,CHN,China,China,True
-549,2024-08-08,Bronze Medal,3.0,Male,BRA,Brazil,Brazil,True
-550,2024-08-08,Gold Medal,1.0,Female,KOR,Korea,Korea,True
-551,2024-08-08,Silver Medal,2.0,Female,IRI,IR Iran,IR Iran,True
-552,2024-08-08,Bronze Medal,3.0,Female,CAN,Canada,Canada,True
-553,2024-08-08,Bronze Medal,3.0,Female,BUL,Bulgaria,Bulgaria,True
-554,2024-08-08,Gold Medal,1.0,Male,INA,Indonesia,Indonesia,True
-555,2024-08-08,Silver Medal,2.0,Male,THA,Thailand,Thailand,True
-556,2024-08-08,Bronze Medal,3.0,Male,BUL,Bulgaria,Bulgaria,True
-557,2024-08-08,Gold Medal,1.0,Female,CHN,China,China,True
-558,2024-08-08,Silver Medal,2.0,Female,CAN,Canada,Canada,True
-559,2024-08-08,Bronze Medal,3.0,Female,TPE,Chinese Taipei,Chinese Taipei,True
-560,2024-08-08,Gold Medal,1.0,Male,IRI,IR Iran,IR Iran,True
-561,2024-08-08,Silver Medal,2.0,Male,UKR,Ukraine,Ukraine,True
-562,2024-08-08,Bronze Medal,3.0,Male,AZE,Azerbaijan,Azerbaijan,True
-563,2024-08-08,Bronze Medal,3.0,Male,CUB,Cuba,Cuba,True
-564,2024-08-08,Gold Medal,1.0,Male,BUL,Bulgaria,Bulgaria,True
-565,2024-08-08,Silver Medal,2.0,Male,IRI,IR Iran,IR Iran,True
-566,2024-08-08,Bronze Medal,3.0,Male,UKR,Ukraine,Ukraine,True
-567,2024-08-08,Bronze Medal,3.0,Male,DEN,Denmark,Denmark,True
-568,2024-08-08,Gold Medal,1.0,Female,JPN,Japan,Japan,True
-569,2024-08-08,Silver Medal,2.0,Female,ECU,Ecuador,Ecuador,True
-570,2024-08-08,Bronze Medal,3.0,Female,PRK,DPR Korea,DPR Korea,True
-571,2024-08-08,Bronze Medal,3.0,Female,CHN,China,China,True
-572,2024-08-09,Gold Medal,1.0,Male,USA,United States,United States,True
-573,2024-08-09,Silver Medal,2.0,Male,NOR,Norway,Norway,True
-574,2024-08-09,Bronze Medal,3.0,Male,BRA,Brazil,Brazil,True
-575,2024-08-09,Gold Medal,1.0,Male,ESP,Spain,Spain,True
-576,2024-08-09,Silver Medal,2.0,Male,POR,Portugal,Portugal,True
-577,2024-08-09,Bronze Medal,3.0,Male,ITA,Italy,Italy,True
-578,2024-08-09,Gold Medal,1.0,Female,KEN,Kenya,Kenya,True
-579,2024-08-09,Silver Medal,2.0,Female,ITA,Italy,Italy,True
-580,2024-08-09,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True
-581,2024-08-09,Gold Medal,1.0,Female,DOM,Dominican Republic,Dominican Republic,True
-582,2024-08-09,Silver Medal,2.0,Female,BRN,Bahrain,Bahrain,True
-583,2024-08-09,Bronze Medal,3.0,Female,POL,Poland,Poland,True
-584,2024-08-09,Gold Medal,1.0,Female,GER,Germany,Germany,True
-585,2024-08-09,Silver Medal,2.0,Female,NZL,New Zealand,New Zealand,True
-586,2024-08-09,Bronze Medal,3.0,Female,CHN,China,China,True
-587,2024-08-09,Gold Medal,1.0,Male,UZB,Uzbekistan,Uzbekistan,True
-588,2024-08-09,Silver Medal,2.0,Male,MEX,Mexico,Mexico,True
-589,2024-08-09,Gold Medal,1.0,Male,UZB,Uzbekistan,Uzbekistan,True
-590,2024-08-09,Silver Medal,2.0,Male,AZE,Azerbaijan,Azerbaijan,True
-591,2024-08-09,Gold Medal,1.0,Female,CHN,China,China,True
-592,2024-08-09,Silver Medal,2.0,Female,TUR,Türkiye,Türkiye,True
-593,2024-08-09,Gold Medal,1.0,Female,ALG,Algeria,Algeria,True
-594,2024-08-09,Silver Medal,2.0,Female,CHN,China,China,True
-595,2024-08-09,Gold Medal,1.0,Female,JPN,Japan,Japan,True
-596,2024-08-09,Silver Medal,2.0,Female,LTU,Lithuania,Lithuania,True
-597,2024-08-09,Bronze Medal,3.0,Female,CHN,China,China,True
-598,2024-08-09,Gold Medal,1.0,Male,CZE,Czechia,Czechia,True
-599,2024-08-09,Silver Medal,2.0,Male,BRA,Brazil,Brazil,True
-600,2024-08-09,Bronze Medal,3.0,Male,MDA,Republic of Moldova,Republic of Moldova,True
-601,2024-08-09,Gold Medal,1.0,Male,NED,Netherlands,Netherlands,True
-602,2024-08-09,Silver Medal,2.0,Male,AUS,Australia,Australia,True
-603,2024-08-09,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True
-604,2024-08-09,Gold Medal,1.0,Female,CHN,China,China,True
-605,2024-08-09,Silver Medal,2.0,Female,AUS,Australia,Australia,True
-606,2024-08-09,Bronze Medal,3.0,Female,CHN,China,China,True
-607,2024-08-09,Gold Medal,1.0,Male,HUN,Hungary,Hungary,True
-608,2024-08-09,Silver Medal,2.0,Male,GER,Germany,Germany,True
-609,2024-08-09,Bronze Medal,3.0,Male,HUN,Hungary,Hungary,True
-610,2024-08-09,Gold Medal,1.0,Male,AUT,Austria,Austria,True
-611,2024-08-09,Silver Medal,2.0,Male,SLO,Slovenia,Slovenia,True
-612,2024-08-09,Bronze Medal,3.0,Male,SGP,Singapore,Singapore,True
-613,2024-08-09,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True
-614,2024-08-09,Silver Medal,2.0,Male,JPN,Japan,Japan,True
-615,2024-08-09,Bronze Medal,3.0,Male,AUT,Austria,Austria,True
-616,2024-08-09,Gold Medal,1.0,Male,TUN,Tunisia,Tunisia,True
-617,2024-08-09,Silver Medal,2.0,Male,IRI,IR Iran,IR Iran,True
-618,2024-08-09,Bronze Medal,3.0,Male,ITA,Italy,Italy,True
-619,2024-08-09,Bronze Medal,3.0,Male,DEN,Denmark,Denmark,True
-620,2024-08-09,Gold Medal,1.0,Female,HUN,Hungary,Hungary,True
-621,2024-08-09,Silver Medal,2.0,Female,SRB,Serbia,Serbia,True
-622,2024-08-09,Bronze Medal,3.0,Female,USA,United States,United States,True
-623,2024-08-09,Bronze Medal,3.0,Female,BEL,Belgium,Belgium,True
-624,2024-08-09,Gold Medal,1.0,Male,BUL,Bulgaria,Bulgaria,True
-625,2024-08-09,Silver Medal,2.0,Male,COL,Colombia,Colombia,True
-626,2024-08-09,Bronze Medal,3.0,Male,ITA,Italy,Italy,True
-627,2024-08-09,Gold Medal,1.0,Female,USA,United States,United States,True
-628,2024-08-09,Silver Medal,2.0,Female,COL,Colombia,Colombia,True
-629,2024-08-09,Bronze Medal,3.0,Female,ECU,Ecuador,Ecuador,True
-630,2024-08-09,Gold Medal,1.0,Male,JPN,Japan,Japan,True
-631,2024-08-09,Silver Medal,2.0,Male,USA,United States,United States,True
-632,2024-08-09,Bronze Medal,3.0,Male,IND,India,India,True
-633,2024-08-09,Bronze Medal,3.0,Male,UZB,Uzbekistan,Uzbekistan,True
-634,2024-08-09,Gold Medal,1.0,Male,BUL,Bulgaria,Bulgaria,True
-635,2024-08-09,Silver Medal,2.0,Male,IRI,IR Iran,IR Iran,True
-636,2024-08-09,Bronze Medal,3.0,Male,USA,United States,United States,True
-637,2024-08-09,Bronze Medal,3.0,Male,GRE,Greece,Greece,True
-638,2024-08-09,Gold Medal,1.0,Female,JPN,Japan,Japan,True
-639,2024-08-09,Silver Medal,2.0,Female,MDA,Republic of Moldova,Republic of Moldova,True
-640,2024-08-09,Bronze Medal,3.0,Female,USA,United States,United States,True
-641,2024-08-09,Bronze Medal,3.0,Female,CHN,China,China,True
-642,2024-08-10,Gold Medal,1.0,Male,NOR,Norway,Norway,True
-643,2024-08-10,Silver Medal,2.0,Male,KEN,Kenya,Kenya,True
-644,2024-08-10,Bronze Medal,3.0,Male,USA,United States,United States,True
-645,2024-08-10,Gold Medal,1.0,Male,KEN,Kenya,Kenya,True
-646,2024-08-10,Silver Medal,2.0,Male,CAN,Canada,Canada,True
-647,2024-08-10,Bronze Medal,3.0,Male,ALG,Algeria,Algeria,True
-648,2024-08-10,Gold Medal,1.0,Male,NZL,New Zealand,New Zealand,True
-649,2024-08-10,Silver Medal,2.0,Male,USA,United States,United States,True
-650,2024-08-10,Bronze Medal,3.0,Male,QAT,Qatar,Qatar,True
-651,2024-08-10,Gold Medal,1.0,Male,ETH,Ethiopia,Ethiopia,True
-652,2024-08-10,Silver Medal,2.0,Male,BEL,Belgium,Belgium,True
-653,2024-08-10,Bronze Medal,3.0,Male,KEN,Kenya,Kenya,True
-654,2024-08-10,Gold Medal,1.0,Female,USA,United States,United States,True
-655,2024-08-10,Silver Medal,2.0,Female,FRA,France,France,True
-656,2024-08-10,Bronze Medal,3.0,Female,PUR,Puerto Rico,United States,True
-657,2024-08-10,Gold Medal,1.0,Female,KEN,Kenya,Kenya,True
-658,2024-08-10,Silver Medal,2.0,Female,AUS,Australia,Australia,True
-659,2024-08-10,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-660,2024-08-10,Gold Medal,1.0,Female,JPN,Japan,Japan,True
-661,2024-08-10,Silver Medal,2.0,Female,RSA,South Africa,South Africa,True
-662,2024-08-10,Bronze Medal,3.0,Female,CZE,Czechia,Czechia,True
-663,2024-08-10,Gold Medal,1.0,Male,UZB,Uzbekistan,Uzbekistan,True
-664,2024-08-10,Silver Medal,2.0,Male,ESP,Spain,Spain,True
-665,2024-08-10,Gold Medal,1.0,Male,UZB,Uzbekistan,Uzbekistan,True
-666,2024-08-10,Silver Medal,2.0,Male,KGZ,Kyrgyzstan,Kyrgyzstan,True
-667,2024-08-10,Gold Medal,1.0,Female,TPE,Chinese Taipei,Chinese Taipei,True
-668,2024-08-10,Silver Medal,2.0,Female,POL,Poland,Poland,True
-669,2024-08-10,Gold Medal,1.0,Female,CHN,China,China,True
-670,2024-08-10,Silver Medal,2.0,Female,PAN,Panama,Panama,True
-671,2024-08-10,Gold Medal,1.0,Male,CAN,Canada,Canada,True
-672,2024-08-10,Silver Medal,2.0,Male,FRA,France,France,True
-673,2024-08-10,Bronze Medal,3.0,Male,USA,United States,United States,True
-674,2024-08-10,Gold Medal,1.0,Male,CZE,Czechia,Czechia,True
-675,2024-08-10,Silver Medal,2.0,Male,HUN,Hungary,Hungary,True
-676,2024-08-10,Bronze Medal,3.0,Male,HUN,Hungary,Hungary,True
-677,2024-08-10,Gold Medal,1.0,Female,CAN,Canada,Canada,True
-678,2024-08-10,Silver Medal,2.0,Female,USA,United States,United States,True
-679,2024-08-10,Bronze Medal,3.0,Female,CUB,Cuba,Cuba,True
-680,2024-08-10,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True
-681,2024-08-10,Silver Medal,2.0,Female,HUN,Hungary,Hungary,True
-682,2024-08-10,Bronze Medal,3.0,Female,DEN,Denmark,Denmark,True
-683,2024-08-10,Gold Medal,1.0,Male,CHN,China,China,True
-684,2024-08-10,Silver Medal,2.0,Male,JPN,Japan,Japan,True
-685,2024-08-10,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True
-686,2024-08-10,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True
-687,2024-08-10,Silver Medal,2.0,Female,GER,Germany,Germany,True
-688,2024-08-10,Bronze Medal,3.0,Female,CHN,China,China,True
-689,2024-08-10,Gold Medal,1.0,Male,EGY,Egypt,Egypt,True
-690,2024-08-10,Silver Medal,2.0,Male,JPN,Japan,Japan,True
-691,2024-08-10,Bronze Medal,3.0,Male,ITA,Italy,Italy,True
-692,2024-08-10,Gold Medal,1.0,Female,SLO,Slovenia,Slovenia,True
-693,2024-08-10,Silver Medal,2.0,Female,USA,United States,United States,True
-694,2024-08-10,Bronze Medal,3.0,Female,AUT,Austria,Austria,True
-695,2024-08-10,Gold Medal,1.0,Male,IRI,IR Iran,IR Iran,True
-696,2024-08-10,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True
-697,2024-08-10,Bronze Medal,3.0,Male,CUB,Cuba,Cuba,True
-698,2024-08-10,Bronze Medal,3.0,Male,CIV,Côte d'Ivoire,Côte d'Ivoire,True
-699,2024-08-10,Gold Medal,1.0,Female,FRA,France,France,True
-700,2024-08-10,Silver Medal,2.0,Female,UZB,Uzbekistan,Uzbekistan,True
-701,2024-08-10,Bronze Medal,3.0,Female,KOR,Korea,Korea,True
-702,2024-08-10,Bronze Medal,3.0,Female,TUR,Türkiye,Türkiye,True
-703,2024-08-10,Gold Medal,1.0,Male,GEO,Georgia,Georgia,True
-704,2024-08-10,Silver Medal,2.0,Male,ARM,Armenia,Armenia,True
-705,2024-08-10,Bronze Medal,3.0,Male,BRN,Bahrain,Bahrain,True
-706,2024-08-10,Gold Medal,1.0,Male,CHN,China,China,True
-707,2024-08-10,Silver Medal,2.0,Male,UZB,Uzbekistan,Uzbekistan,True
-708,2024-08-10,Bronze Medal,3.0,Male,AIN,AIN,Belarus,True
-709,2024-08-10,Gold Medal,1.0,Female,NOR,Norway,Norway,True
-710,2024-08-10,Silver Medal,2.0,Female,EGY,Egypt,Egypt,True
-711,2024-08-10,Bronze Medal,3.0,Female,ECU,Ecuador,Ecuador,True
-712,2024-08-10,Gold Medal,1.0,Male,GEO,Georgia,Georgia,True
-713,2024-08-10,Silver Medal,2.0,Male,IRI,IR Iran,IR Iran,True
-714,2024-08-10,Bronze Medal,3.0,Male,TUR,Türkiye,Türkiye,True
-715,2024-08-10,Bronze Medal,3.0,Male,AZE,Azerbaijan,Azerbaijan,True
-716,2024-08-10,Gold Medal,1.0,Male,UZB,Uzbekistan,Uzbekistan,True
-717,2024-08-10,Silver Medal,2.0,Male,JPN,Japan,Japan,True
-718,2024-08-10,Bronze Medal,3.0,Male,USA,United States,United States,True
-719,2024-08-10,Bronze Medal,3.0,Male,ALB,Albania,Albania,True
-720,2024-08-10,Gold Medal,1.0,Female,JPN,Japan,Japan,True
-721,2024-08-10,Silver Medal,2.0,Female,UKR,Ukraine,Ukraine,True
-722,2024-08-10,Bronze Medal,3.0,Female,KGZ,Kyrgyzstan,Kyrgyzstan,True
-723,2024-08-10,Bronze Medal,3.0,Female,NOR,Norway,Norway,True
-724,2024-08-11,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True
-725,2024-08-11,Silver Medal,2.0,Female,ETH,Ethiopia,Ethiopia,True
-726,2024-08-11,Bronze Medal,3.0,Female,KEN,Kenya,Kenya,True
-727,2024-08-11,Gold Medal,1.0,Male,NED,Netherlands,Netherlands,True
-728,2024-08-11,Silver Medal,2.0,Male,AUS,Australia,Australia,True
-729,2024-08-11,Bronze Medal,3.0,Male,AUS,Australia,Australia,True
-730,2024-08-11,Gold Medal,1.0,Female,USA,United States,United States,True
-731,2024-08-11,Silver Medal,2.0,Female,POL,Poland,Poland,True
-732,2024-08-11,Bronze Medal,3.0,Female,NZL,New Zealand,New Zealand,True
-733,2024-08-11,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True
-734,2024-08-11,Silver Medal,2.0,Female,GER,Germany,Germany,True
-735,2024-08-11,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-736,2024-08-11,Gold Medal,1.0,Female,HUN,Hungary,Hungary,True
-737,2024-08-11,Silver Medal,2.0,Female,FRA,France,France,True
-738,2024-08-11,Bronze Medal,3.0,Female,KOR,Korea,Korea,True
-739,2024-08-11,Gold Medal,1.0,Female,CHN,China,China,True
-740,2024-08-11,Silver Medal,2.0,Female,KOR,Korea,Korea,True
-741,2024-08-11,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-742,2024-08-11,Gold Medal,1.0,Male,JPN,Japan,Japan,True
-743,2024-08-11,Silver Medal,2.0,Male,IRI,IR Iran,IR Iran,True
-744,2024-08-11,Bronze Medal,3.0,Male,PUR,Puerto Rico,United States,True
-745,2024-08-11,Bronze Medal,3.0,Male,ALB,Albania,Albania,True
-746,2024-08-11,Gold Medal,1.0,Male,BRN,Bahrain,Bahrain,True
-747,2024-08-11,Silver Medal,2.0,Male,GEO,Georgia,Georgia,True
-748,2024-08-11,Bronze Medal,3.0,Male,AZE,Azerbaijan,Azerbaijan,True
-749,2024-08-11,Bronze Medal,3.0,Male,IRI,IR Iran,IR Iran,True
-750,2024-08-11,Gold Medal,1.0,Female,JPN,Japan,Japan,True
-751,2024-08-11,Silver Medal,2.0,Female,USA,United States,United States,True
-752,2024-08-11,Bronze Medal,3.0,Female,CUB,Cuba,Cuba,True
-753,2024-08-11,Bronze Medal,3.0,Female,COL,Colombia,Colombia,True
-754,2024-08-09,Gold Medal,1.0,Female,GER,Germany,Germany,True
-755,2024-08-09,Silver Medal,2.0,Female,BUL,Bulgaria,Bulgaria,True
-756,2024-08-09,Bronze Medal,3.0,Female,ITA,Italy,Italy,True
-757,2024-08-09,Gold Medal,1.0,Female,BEL,Belgium,Belgium,True
-758,2024-08-09,Silver Medal,2.0,Female,GBR,Great Britain,Great Britain,True
-759,2024-08-09,Bronze Medal,3.0,Female,BEL,Belgium,Belgium,True
-760,2024-07-27,Gold Medal,1.0,Female,CHN,China,China,True
-762,2024-07-27,Silver Medal,2.0,Female,USA,United States,United States,True
-764,2024-07-27,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-766,2024-07-27,Gold Medal,1.0,Male,FRA,France,France,True
-779,2024-07-27,Silver Medal,2.0,Male,FIJ,Fiji,Fiji,True
-793,2024-07-27,Bronze Medal,3.0,Male,RSA,South Africa,South Africa,True
-806,2024-07-27,Gold Medal,1.0,Female,CHN,China,China,True
-808,2024-07-27,Silver Medal,2.0,Female,KOR,Korea,Korea,True
-810,2024-07-27,Bronze Medal,3.0,Female,KAZ,Kazakhstan,Kazakhstan,True
-812,2024-07-27,Gold Medal,1.0,Male,USA,United States,United States,True
-818,2024-07-27,Silver Medal,2.0,Male,AUS,Australia,Australia,True
-823,2024-07-27,Bronze Medal,3.0,Male,ITA,Italy,Italy,True
-829,2024-07-27,Gold Medal,1.0,Female,AUS,Australia,Australia,True
-835,2024-07-27,Silver Medal,2.0,Female,USA,United States,United States,True
-841,2024-07-27,Bronze Medal,3.0,Female,CHN,China,China,True
-846,2024-07-28,Gold Medal,1.0,Female,KOR,Korea,Korea,True
-849,2024-07-28,Silver Medal,2.0,Female,CHN,China,China,True
-852,2024-07-28,Bronze Medal,3.0,Female,MEX,Mexico,Mexico,True
-855,2024-07-29,Gold Medal,1.0,Male,KOR,Korea,Korea,True
-858,2024-07-29,Silver Medal,2.0,Male,FRA,France,France,True
-861,2024-07-29,Bronze Medal,3.0,Male,TUR,Türkiye,Türkiye,True
-864,2024-07-29,Gold Medal,1.0,Male,JPN,Japan,Japan,True
-869,2024-07-29,Silver Medal,2.0,Male,CHN,China,China,True
-874,2024-07-29,Bronze Medal,3.0,Male,USA,United States,United States,True
-879,2024-07-29,Gold Medal,1.0,Male,CHN,China,China,True
-881,2024-07-29,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True
-883,2024-07-29,Bronze Medal,3.0,Male,CAN,Canada,Canada,True
-885,2024-07-29,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True
-889,2024-07-29,Silver Medal,2.0,Male,FRA,France,France,True
-893,2024-07-29,Bronze Medal,3.0,Male,JPN,Japan,Japan,True
-897,2024-07-30,Gold Medal,1.0,Female,USA,United States,United States,True
-902,2024-07-30,Silver Medal,2.0,Female,ITA,Italy,Italy,True
-907,2024-07-30,Bronze Medal,3.0,Female,BRA,Brazil,Brazil,True
-912,2024-07-30,Gold Medal,1.0,Female,ITA,Italy,Italy,True
-916,2024-07-30,Silver Medal,2.0,Female,FRA,France,France,True
-920,2024-07-30,Bronze Medal,3.0,Female,POL,Poland,Poland,True
-924,2024-07-30,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True
-936,2024-07-30,Silver Medal,2.0,Female,CAN,Canada,Canada,True
-950,2024-07-30,Bronze Medal,3.0,Female,USA,United States,United States,True
-962,2024-07-30,Gold Medal,1.0,Female,SRB,Serbia,Serbia,True
-964,2024-07-30,Silver Medal,2.0,Female,TUR,Türkiye,Türkiye,True
-966,2024-07-30,Bronze Medal,3.0,Female,IND,India,India,True
-968,2024-07-30,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True
-974,2024-07-30,Silver Medal,2.0,Male,USA,United States,United States,True
-981,2024-07-30,Bronze Medal,3.0,Male,AUS,Australia,Australia,True
-987,2024-07-30,Gold Medal,1.0,Male,CHN,China,China,True
-989,2024-07-30,Silver Medal,2.0,Male,PRK,DPR Korea,DPR Korea,True
-991,2024-07-30,Bronze Medal,3.0,Male,KOR,Korea,Korea,True
-993,2024-07-31,Gold Medal,1.0,Female,CHN,China,China,True
-995,2024-07-31,Silver Medal,2.0,Female,PRK,DPR Korea,DPR Korea,True
-997,2024-07-31,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-999,2024-07-31,Gold Medal,1.0,Male,KOR,Korea,Korea,True
-1003,2024-07-31,Silver Medal,2.0,Male,HUN,Hungary,Hungary,True
-1007,2024-07-31,Bronze Medal,3.0,Male,FRA,France,France,True
-1011,2024-07-31,Gold Medal,1.0,Male,NED,Netherlands,Netherlands,True
-1015,2024-07-31,Silver Medal,2.0,Male,ITA,Italy,Italy,True
-1019,2024-07-31,Bronze Medal,3.0,Male,POL,Poland,Poland,True
-1023,2024-07-31,Gold Medal,1.0,Female,GBR,Great Britain,Great Britain,True
-1027,2024-07-31,Silver Medal,2.0,Female,NED,Netherlands,Netherlands,True
-1031,2024-07-31,Bronze Medal,3.0,Female,GER,Germany,Germany,True
-1035,2024-08-01,Gold Medal,1.0,Female,USA,United States,United States,True
-1039,2024-08-01,Silver Medal,2.0,Female,ITA,Italy,Italy,True
-1043,2024-08-01,Bronze Medal,3.0,Female,JPN,Japan,Japan,True
-1047,2024-08-01,Gold Medal,1.0,Male,ROU,Romania,Romania,True
-1049,2024-08-01,Silver Medal,2.0,Male,NED,Netherlands,Netherlands,True
-1051,2024-08-01,Bronze Medal,3.0,Male,IRL,Ireland,Ireland,True
-1053,2024-08-01,Gold Medal,1.0,Male,USA,United States,United States,True
-1057,2024-08-01,Silver Medal,2.0,Male,NZL,New Zealand,New Zealand,True
-1061,2024-08-01,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True
-1065,2024-08-01,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True
-1067,2024-08-01,Silver Medal,2.0,Female,ROU,Romania,Romania,True
-1069,2024-08-01,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-1071,2024-08-01,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True
-1075,2024-08-01,Silver Medal,2.0,Female,GBR,Great Britain,Great Britain,True
-1079,2024-08-01,Bronze Medal,3.0,Female,NZL,New Zealand,New Zealand,True
-1083,2024-08-01,Gold Medal,1.0,Female,AUS,Australia,Australia,True
-1089,2024-08-01,Silver Medal,2.0,Female,USA,United States,United States,True
-1096,2024-08-01,Bronze Medal,3.0,Female,CHN,China,China,True
-1102,2024-08-02,Gold Medal,1.0,Female,KOR,Korea,Korea,True
-1104,2024-08-02,Silver Medal,2.0,Female,GER,Germany,Germany,True
-1106,2024-08-02,Bronze Medal,3.0,Female,USA,United States,United States,True
-1108,2024-08-02,Gold Medal,1.0,Male,CHN,China,China,True
-1110,2024-08-02,Silver Medal,2.0,Male,KOR,Korea,Korea,True
-1112,2024-08-02,Bronze Medal,3.0,Male,JPN,Japan,Japan,True
-1114,2024-08-02,Gold Medal,1.0,Male,CHN,China,China,True
-1116,2024-08-02,Silver Medal,2.0,Male,MEX,Mexico,Mexico,True
-1118,2024-08-02,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True
-1120,2024-08-02,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True
-1124,2024-08-02,Silver Medal,2.0,Male,USA,United States,United States,True
-1128,2024-08-02,Bronze Medal,3.0,Male,FRA,France,France,False
-1132,2024-08-02,Gold Medal,1.0,Male,HUN,Hungary,Hungary,True
-1136,2024-08-02,Silver Medal,2.0,Male,JPN,Japan,Japan,True
-1140,2024-08-02,Bronze Medal,3.0,Male,CZE,Czechia,Czechia,True
-1144,2024-08-02,Gold Medal,1.0,Male,IRL,Ireland,Ireland,True
-1146,2024-08-02,Silver Medal,2.0,Male,ITA,Italy,Italy,True
-1148,2024-08-02,Bronze Medal,3.0,Male,GRE,Greece,Greece,True
-1150,2024-08-02,Gold Medal,1.0,Female,GBR,Great Britain,Great Britain,True
-1152,2024-08-02,Silver Medal,2.0,Female,ROU,Romania,Romania,True
-1154,2024-08-02,Bronze Medal,3.0,Female,GRE,Greece,Greece,True
-1156,2024-08-02,Gold Medal,1.0,Male,CRO,Croatia,Croatia,True
-1158,2024-08-02,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True
-1160,2024-08-02,Bronze Medal,3.0,Male,SUI,Switzerland,Switzerland,True
-1162,2024-08-02,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True
-1164,2024-08-02,Silver Medal,2.0,Female,ROU,Romania,Romania,True
-1166,2024-08-02,Bronze Medal,3.0,Female,AUS,Australia,Australia,True
-1168,2024-08-02,Gold Medal,1.0,Male,ESP,Spain,Spain,True
-1170,2024-08-02,Silver Medal,2.0,Male,NZL,New Zealand,New Zealand,True
-1172,2024-08-02,Bronze Medal,3.0,Male,USA,United States,United States,True
-1174,2024-08-02,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True
-1176,2024-08-02,Silver Medal,2.0,Female,SWE,Sweden,Sweden,True
-1178,2024-08-02,Bronze Medal,3.0,Female,FRA,France,France,True
-1180,2024-08-02,Gold Medal,1.0,Female,CZE,Czechia,Czechia,True
-1182,2024-08-02,Silver Medal,2.0,Female,CHN,China,China,True
-1184,2024-08-02,Bronze Medal,3.0,Female,CAN,Canada,Canada,True
-1186,2024-08-03,Gold Medal,1.0,Male,NED,Netherlands,Netherlands,True
-1192,2024-08-03,Silver Medal,2.0,Male,USA,United States,United States,True
-1198,2024-08-03,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,False
-1207,2024-08-03,Gold Medal,1.0,Female,CHN,China,China,True
-1209,2024-08-03,Silver Medal,2.0,Female,CHN,China,China,True
-1211,2024-08-03,Bronze Medal,3.0,Female,JPN,Japan,Japan,True
-1213,2024-08-03,Gold Medal,1.0,Female,GER,Germany,Germany,True
-1217,2024-08-03,Silver Medal,2.0,Male,DEN,Denmark,Denmark,True
-1221,2024-08-03,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-1225,2024-08-03,Gold Medal,1.0,Female,UKR,Ukraine,Ukraine,True
-1229,2024-08-03,Silver Medal,2.0,Female,KOR,Korea,Korea,True
-1233,2024-08-03,Bronze Medal,3.0,Female,JPN,Japan,Japan,True
-1237,2024-08-03,Gold Medal,1.0,Female,FRA,France,France,True
-1251,2024-08-03,Silver Medal,2.0,Female,JPN,Japan,Japan,True
-1265,2024-08-03,Bronze Medal,3.0,Female,BRA,Brazil,Brazil,True
-1275,2024-08-03,Bronze Medal,3.0,Female,KOR,Korea,Korea,True
-1286,2024-08-03,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True
-1295,2024-08-03,Silver Medal,2.0,Male,NED,Netherlands,Netherlands,True
-1304,2024-08-03,Bronze Medal,3.0,Male,USA,United States,United States,True
-1313,2024-08-03,Gold Medal,1.0,Female,ROU,Romania,Romania,True
-1322,2024-08-03,Silver Medal,2.0,Female,CAN,Canada,Canada,True
-1331,2024-08-03,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-1340,2024-08-03,Gold Medal,1.0,Female,USA,United States,United States,True
-1348,2024-08-03,Silver Medal,2.0,Male,CHN,China,China,True
-1354,2024-08-03,Bronze Medal,3.0,Female,AUS,Australia,Australia,True
-1362,2024-08-03,Gold Medal,1.0,Male,AUS,Australia,Australia,True
-1364,2024-08-03,Silver Medal,2.0,Male,USA,United States,United States,True
-1366,2024-08-03,Bronze Medal,3.0,Male,USA,United States,United States,True
-1368,2024-08-04,Gold Medal,1.0,Male,TPE,Chinese Taipei,Chinese Taipei,True
-1370,2024-08-04,Silver Medal,2.0,Male,CHN,China,China,True
-1372,2024-08-04,Bronze Medal,3.0,Male,MAS,Malaysia,Malaysia,True
-1374,2024-08-04,Gold Medal,1.0,Male,JPN,Japan,Japan,True
-1378,2024-08-04,Silver Medal,2.0,Male,ITA,Italy,Italy,True
-1382,2024-08-04,Bronze Medal,3.0,Male,FRA,France,France,True
-1386,2024-08-04,Gold Medal,1.0,Male,CHN,China,China,True
-1391,2024-08-04,Silver Medal,2.0,Male,USA,United States,United States,True
-1398,2024-08-04,Bronze Medal,3.0,Male,FRA,France,France,True
-1404,2024-08-04,Gold Medal,1.0,Female,USA,United States,United States,True
-1412,2024-08-04,Silver Medal,2.0,Female,AUS,Australia,Australia,True
-1420,2024-08-04,Bronze Medal,3.0,Female,CHN,China,China,True
-1427,2024-08-04,Gold Medal,1.0,Female,ITA,Italy,Italy,True
-1429,2024-08-04,Silver Medal,2.0,Female,AIN,AIN,Russian Federation,True
-1431,2024-08-04,Bronze Medal,3.0,Female,ESP,Spain,Spain,True
-1433,2024-08-05,Gold Medal,1.0,Male,NED,Netherlands,Netherlands,True
-1437,2024-08-05,Silver Medal,2.0,Male,FRA,France,France,True
-1441,2024-08-05,Bronze Medal,3.0,Male,LTU,Lithuania,Lithuania,True
-1445,2024-08-05,Gold Medal,1.0,Female,GER,Germany,Germany,True
-1449,2024-08-05,Silver Medal,2.0,Female,ESP,Spain,Spain,True
-1453,2024-08-05,Bronze Medal,3.0,Female,USA,United States,United States,True
-1457,2024-08-05,Gold Medal,1.0,Female,GBR,Great Britain,Great Britain,True
-1461,2024-08-05,Silver Medal,2.0,Female,NZL,New Zealand,New Zealand,True
-1465,2024-08-05,Bronze Medal,3.0,Female,GER,Germany,Germany,True
-1469,2024-08-05,Gold Medal,1.0,Female,ITA,Italy,Italy,True
-1471,2024-08-05,Silver Medal,2.0,Female,USA,United States,United States,True
-1473,2024-08-05,Bronze Medal,3.0,Female,CHN,China,China,True
-1475,2024-08-05,Gold Medal,1.0,Male,GER,Germany,Germany,True
-1479,2024-08-05,Silver Medal,2.0,Male,USA,United States,United States,True
-1483,2024-08-05,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True
-1487,2024-08-06,Gold Medal,1.0,Male,NED,Netherlands,Netherlands,True
-1491,2024-08-06,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True
-1495,2024-08-06,Bronze Medal,3.0,Male,AUS,Australia,Australia,True
-1499,2024-08-07,Gold Medal,1.0,Female,CHN,China,China,True
-1508,2024-08-07,Silver Medal,2.0,Female,USA,United States,United States,True
-1517,2024-08-07,Bronze Medal,3.0,Female,ESP,Spain,Spain,True
-1526,2024-08-07,Gold Medal,1.0,Male,ESP,Spain,Spain,True
-1528,2024-08-07,Silver Medal,2.0,Male,ECU,Ecuador,Ecuador,True
-1530,2024-08-07,Bronze Medal,3.0,Male,AUS,Australia,Australia,True
-1532,2024-08-07,Gold Medal,1.0,Male,AUS,Australia,Australia,True
-1537,2024-08-07,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True
-1543,2024-08-07,Bronze Medal,3.0,Male,ITA,Italy,Italy,True
-1548,2024-08-07,Gold Medal,1.0,Female,USA,United States,United States,False
-1554,2024-08-07,Silver Medal,2.0,Female,NZL,New Zealand,New Zealand,True
-1559,2024-08-07,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,False
-1565,2024-08-08,Gold Medal,1.0,Male,CHN,China,China,True
-1567,2024-08-08,Silver Medal,2.0,Male,ITA,Italy,Italy,True
-1569,2024-08-08,Bronze Medal,3.0,Male,ESP,Spain,Spain,True
-1571,2024-08-08,Gold Medal,1.0,Male,GER,Germany,Germany,True
-1575,2024-08-08,Silver Medal,2.0,Male,AUS,Australia,Australia,True
-1579,2024-08-08,Bronze Medal,3.0,Male,ESP,Spain,Spain,True
-1583,2024-08-08,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True
-1587,2024-08-08,Silver Medal,2.0,Female,GER,Germany,Germany,True
-1591,2024-08-08,Bronze Medal,3.0,Female,HUN,Hungary,Hungary,True
-1595,2024-08-08,Bronze Medal,3.0,Male,MAR,Morocco,Morocco,True
-1614,2024-08-08,Gold Medal,1.0,Male,NED,Netherlands,Netherlands,True
-1632,2024-08-08,Silver Medal,2.0,Male,GER,Germany,Germany,True
-1650,2024-08-08,Bronze Medal,3.0,Male,IND,India,India,True
-1666,2024-08-08,Gold Medal,1.0,Female,AUT,Austria,Austria,True
-1668,2024-08-08,Silver Medal,2.0,Male,JPN,Japan,Japan,True
-1670,2024-08-08,Bronze Medal,3.0,Male,SWE,Sweden,Sweden,True
-1672,2024-08-08,Gold Medal,1.0,Male,ITA,Italy,Italy,True
-1674,2024-08-08,Silver Medal,2.0,Male,ARG,Argentina,Argentina,True
-1676,2024-08-08,Bronze Medal,3.0,Male,NZL,New Zealand,New Zealand,True
-1678,2024-08-09,Gold Medal,1.0,Male,CAN,Canada,Canada,False
-1684,2024-08-09,Silver Medal,2.0,Male,RSA,South Africa,South Africa,True
-1689,2024-08-09,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True
-1694,2024-08-09,Gold Medal,1.0,Female,USA,United States,United States,False
-1700,2024-08-09,Silver Medal,2.0,Female,GBR,Great Britain,Great Britain,True
-1706,2024-08-09,Bronze Medal,3.0,Female,GER,Germany,Germany,True
-1711,2024-08-09,Gold Medal,1.0,Female,BRA,Brazil,Brazil,True
-1713,2024-08-09,Silver Medal,2.0,Female,CAN,Canada,Canada,True
-1715,2024-08-09,Bronze Medal,3.0,Female,SUI,Switzerland,Switzerland,True
-1717,2024-08-09,Gold Medal,1.0,Male,GER,Germany,Germany,True
-1719,2024-08-09,Silver Medal,2.0,Male,HUN,Hungary,Hungary,True
-1721,2024-08-09,Bronze Medal,3.0,Male,AUS,Australia,Australia,True
-1723,2024-08-09,Gold Medal,1.0,Female,CHN,China,China,True
-1725,2024-08-09,Silver Medal,2.0,Female,UKR,Ukraine,Ukraine,True
-1727,2024-08-09,Bronze Medal,3.0,Female,CAN,Canada,Canada,True
-1729,2024-08-09,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True
-1731,2024-08-09,Silver Medal,2.0,Female,HUN,Hungary,Hungary,True
-1733,2024-08-09,Bronze Medal,3.0,Female,GER,Germany,Germany,True
-1735,2024-08-09,Bronze Medal,3.0,Female,HUN,Hungary,Hungary,True
-1737,2024-08-09,Gold Medal,1.0,Female,ITA,Italy,Italy,True
-1739,2024-08-09,Silver Medal,2.0,Female,GBR,Great Britain,Great Britain,True
-1741,2024-08-09,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True
-1743,2024-08-09,Gold Medal,1.0,Male,ESP,Spain,Spain,True
-1765,2024-08-09,Silver Medal,2.0,Male,FRA,France,France,True
-1786,2024-08-09,Bronze Medal,3.0,Female,GER,Germany,Germany,True
-1806,2024-08-09,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True
-1823,2024-08-09,Silver Medal,2.0,Female,CHN,China,China,True
-1840,2024-08-09,Bronze Medal,3.0,Female,ARG,Argentina,Argentina,True
-1856,2024-08-09,Gold Medal,1.0,Male,CHN,China,China,True
-1859,2024-08-09,Silver Medal,2.0,Male,SWE,Sweden,Sweden,True
-1862,2024-08-09,Bronze Medal,3.0,Male,FRA,France,France,True
-1865,2024-08-09,Bronze Medal,3.0,Male,USA,United States,United States,True
-1878,2024-08-10,Gold Medal,1.0,Female,CHN,China,China,True
-1880,2024-08-10,Silver Medal,2.0,Female,GBR,Great Britain,Great Britain,True
-1882,2024-08-10,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True
-1884,2024-08-10,Gold Medal,1.0,Male,USA,United States,United States,True
-1892,2024-08-10,Silver Medal,2.0,Male,BOT,Botswana,Botswana,False
-1898,2024-08-10,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True
-1905,2024-08-10,Gold Medal,1.0,Female,USA,United States,United States,True
-1913,2024-08-10,Silver Medal,2.0,Female,NED,Netherlands,Netherlands,True
-1920,2024-08-10,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True
-1928,2024-08-10,Gold Medal,1.0,Male,USA,United States,United States,True
-1940,2024-08-10,Silver Medal,2.0,Male,FRA,France,France,True
-1952,2024-08-10,Bronze Medal,3.0,Male,SRB,Serbia,Serbia,True
-1964,2024-08-10,Gold Medal,1.0,Male,SWE,Sweden,Sweden,True
-1966,2024-08-10,Silver Medal,2.0,Male,GER,Germany,Germany,True
-1968,2024-08-10,Bronze Medal,3.0,Male,NOR,Norway,Norway,True
-1970,2024-08-10,Gold Medal,1.0,Male,POR,Portugal,Portugal,True
-1972,2024-08-10,Silver Medal,2.0,Male,ITA,Italy,Italy,True
-1974,2024-08-10,Bronze Medal,3.0,Male,DEN,Denmark,Denmark,True
-1976,2024-08-10,Gold Medal,1.0,Female,USA,United States,United States,True
-1996,2024-08-10,Silver Medal,2.0,Female,BRA,Brazil,Brazil,True
-2018,2024-08-10,Gold Medal,1.0,Female,NOR,Norway,Norway,True
-2033,2024-08-10,Silver Medal,2.0,Female,FRA,France,France,True
-2050,2024-08-10,Bronze Medal,3.0,Female,DEN,Denmark,Denmark,True
-2065,2024-08-10,Gold Medal,1.0,Female,CHN,China,China,True
-2068,2024-08-10,Silver Medal,2.0,Female,JPN,Japan,Japan,True
-2071,2024-08-10,Bronze Medal,3.0,Female,KOR,Korea,Korea,True
-2074,2024-08-10,Gold Medal,1.0,Male,FRA,France,France,True
-2087,2024-08-10,Silver Medal,2.0,Male,POL,Poland,Poland,True
-2100,2024-08-10,Bronze Medal,3.0,Female,BRA,Brazil,Brazil,True
-2113,2024-08-10,Gold Medal,1.0,Female,ESP,Spain,Spain,True
-2126,2024-08-10,Silver Medal,2.0,Female,AUS,Australia,Australia,True
-2139,2024-08-10,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True
-2152,2024-08-11,Gold Medal,1.0,Female,USA,United States,United States,True
-2164,2024-08-11,Silver Medal,2.0,Female,FRA,France,France,True
-2176,2024-08-11,Bronze Medal,3.0,Female,AUS,Australia,Australia,True
-2188,2024-08-11,Gold Medal,1.0,Male,DEN,Denmark,Denmark,True
-2204,2024-08-11,Silver Medal,2.0,Male,GER,Germany,Germany,True
-2220,2024-08-11,Bronze Medal,3.0,Male,ESP,Spain,Spain,True
-2235,2024-08-11,Gold Medal,1.0,Female,ITA,Italy,Italy,True
-2248,2024-08-11,Silver Medal,2.0,Female,USA,United States,United States,True
-2261,2024-08-11,Gold Medal,1.0,Male,SRB,Serbia,Serbia,True
-2274,2024-08-11,Silver Medal,2.0,Male,CRO,Croatia,Croatia,True
-2287,2024-08-11,Bronze Medal,3.0,Male,USA,United States,United States,True
-2300,2024-08-10,Gold Medal,1.0,Female,CHN,China,China,True
-2305,2024-08-10,Silver Medal,2.0,Female,ISR,Israel,Israel,True
-2310,2024-08-10,Bronze Medal,3.0,Female,ITA,Italy,Italy,True
+,medal_date,medal_type,medal_code,gender,country_code,country,nationality,is_medallist,color
+0,2024-07-27,Gold Medal,1.0,Male,BEL,Belgium,Belgium,True,#FF6633
+1,2024-07-27,Silver Medal,2.0,Male,ITA,Italy,Italy,True,#FFB399
+2,2024-07-27,Bronze Medal,3.0,Male,BEL,Belgium,Belgium,True,#FF6633
+3,2024-07-27,Gold Medal,1.0,Female,AUS,Australia,Australia,True,#FF33FF
+4,2024-07-27,Silver Medal,2.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+5,2024-07-27,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+6,2024-07-27,Gold Medal,1.0,Male,KOR,Korea,Korea,True,#E6B333
+7,2024-07-27,Silver Medal,2.0,Male,TUN,Tunisia,Tunisia,True,#3366E6
+8,2024-07-27,Bronze Medal,3.0,Male,ITA,Italy,Italy,True,#FFB399
+9,2024-07-27,Gold Medal,1.0,Female,HKG,"Hong Kong, China","Hong Kong, China",True,#999966
+10,2024-07-27,Silver Medal,2.0,Female,FRA,France,France,True,#99FF99
+11,2024-07-27,Bronze Medal,3.0,Female,HUN,Hungary,Hungary,True,#B34D4D
+12,2024-07-27,Gold Medal,1.0,Male,KAZ,Kazakhstan,Kazakhstan,True,#80B300
+13,2024-07-27,Silver Medal,2.0,Male,FRA,France,France,True,#99FF99
+14,2024-07-27,Bronze Medal,3.0,Male,JPN,Japan,Japan,True,#809900
+15,2024-07-27,Bronze Medal,3.0,Male,ESP,Spain,Spain,True,#E6B3B3
+16,2024-07-27,Gold Medal,1.0,Female,JPN,Japan,Japan,True,#809900
+17,2024-07-27,Silver Medal,2.0,Female,MGL,Mongolia,Mongolia,True,#6680B3
+18,2024-07-27,Bronze Medal,3.0,Female,FRA,France,France,True,#99FF99
+19,2024-07-27,Bronze Medal,3.0,Female,SWE,Sweden,Sweden,True,#66991A
+20,2024-07-27,Gold Medal,1.0,Male,GER,Germany,Germany,True,#FF99E6
+21,2024-07-27,Silver Medal,2.0,Male,AUS,Australia,Australia,True,#FF33FF
+22,2024-07-27,Bronze Medal,3.0,Male,KOR,Korea,Korea,True,#E6B333
+23,2024-07-27,Gold Medal,1.0,Female,AUS,Australia,Australia,True,#FF33FF
+24,2024-07-27,Silver Medal,2.0,Female,CAN,Canada,Canada,True,#CCFF1A
+25,2024-07-27,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+26,2024-07-28,Gold Medal,1.0,Female,AUS,Australia,Australia,True,#FF33FF
+27,2024-07-28,Silver Medal,2.0,Female,POL,Poland,Poland,True,#FF1A66
+28,2024-07-28,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+29,2024-07-28,Gold Medal,1.0,Female,FRA,France,France,True,#99FF99
+30,2024-07-28,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+31,2024-07-28,Bronze Medal,3.0,Female,SWE,Sweden,Sweden,True,#66991A
+32,2024-07-28,Gold Medal,1.0,Male,JPN,Japan,Japan,True,#809900
+33,2024-07-28,Silver Medal,2.0,Male,FRA,France,France,True,#99FF99
+34,2024-07-28,Bronze Medal,3.0,Male,EGY,Egypt,Egypt,True,#E6331A
+35,2024-07-28,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+36,2024-07-28,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+37,2024-07-28,Bronze Medal,3.0,Female,CAN,Canada,Canada,True,#CCFF1A
+38,2024-07-28,Gold Medal,1.0,Male,JPN,Japan,Japan,True,#809900
+39,2024-07-28,Silver Medal,2.0,Male,BRA,Brazil,Brazil,True,#33FFCC
+40,2024-07-28,Bronze Medal,3.0,Male,KAZ,Kazakhstan,Kazakhstan,True,#80B300
+41,2024-07-28,Bronze Medal,3.0,Male,MDA,Republic of Moldova,Republic of Moldova,True,#66994D
+42,2024-07-28,Gold Medal,1.0,Female,UZB,Uzbekistan,Uzbekistan,True,#B366CC
+43,2024-07-28,Silver Medal,2.0,Female,KOS,Kosovo,Kosovo,True,#4D8000
+44,2024-07-28,Bronze Medal,3.0,Female,BRA,Brazil,Brazil,True,#33FFCC
+45,2024-07-28,Bronze Medal,3.0,Female,FRA,France,France,True,#99FF99
+46,2024-07-28,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+47,2024-07-28,Silver Medal,2.0,Male,ITA,Italy,Italy,True,#FFB399
+48,2024-07-28,Bronze Medal,3.0,Male,ITA,Italy,Italy,True,#FFB399
+49,2024-07-28,Gold Medal,1.0,Female,KOR,Korea,Korea,True,#E6B333
+50,2024-07-28,Silver Medal,2.0,Female,KOR,Korea,Korea,True,#E6B333
+51,2024-07-28,Bronze Medal,3.0,Female,IND,India,India,True,#CC80CC
+52,2024-07-28,Gold Medal,1.0,Female,JPN,Japan,Japan,True,#809900
+53,2024-07-28,Silver Medal,2.0,Female,JPN,Japan,Japan,True,#809900
+54,2024-07-28,Bronze Medal,3.0,Female,BRA,Brazil,Brazil,True,#33FFCC
+55,2024-07-28,Gold Medal,1.0,Male,ITA,Italy,Italy,True,#FFB399
+56,2024-07-28,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+57,2024-07-28,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+58,2024-07-28,Gold Medal,1.0,Male,FRA,France,France,True,#99FF99
+59,2024-07-28,Silver Medal,2.0,Male,JPN,Japan,Japan,True,#809900
+60,2024-07-28,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+61,2024-07-28,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+62,2024-07-28,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+63,2024-07-28,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+64,2024-07-29,Gold Medal,1.0,Male,FRA,France,France,True,#99FF99
+65,2024-07-29,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+66,2024-07-29,Bronze Medal,3.0,Male,SVK,Slovakia,Slovakia,True,#66664D
+67,2024-07-29,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+68,2024-07-29,Silver Medal,2.0,Male,FRA,France,France,True,#99FF99
+69,2024-07-29,Bronze Medal,3.0,Male,RSA,South Africa,South Africa,True,#991AFF
+70,2024-07-29,Gold Medal,1.0,Male,GER,Germany,Germany,True,#FF99E6
+71,2024-07-29,Silver Medal,2.0,Male,AUS,Australia,Australia,True,#FF33FF
+72,2024-07-29,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+73,2024-07-29,Gold Medal,1.0,Male,HKG,"Hong Kong, China","Hong Kong, China",True,#999966
+74,2024-07-29,Silver Medal,2.0,Male,ITA,Italy,Italy,True,#FFB399
+75,2024-07-29,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+76,2024-07-29,Gold Medal,1.0,Female,FRA,France,France,True,#99FF99
+77,2024-07-29,Silver Medal,2.0,Female,FRA,France,France,True,#99FF99
+78,2024-07-29,Bronze Medal,3.0,Female,UKR,Ukraine,Ukraine,True,#E666FF
+79,2024-07-29,Gold Medal,1.0,Male,AZE,Azerbaijan,Azerbaijan,True,#4DB3FF
+80,2024-07-29,Silver Medal,2.0,Male,FRA,France,France,True,#99FF99
+81,2024-07-29,Bronze Medal,3.0,Male,MDA,Republic of Moldova,Republic of Moldova,True,#66994D
+82,2024-07-29,Bronze Medal,3.0,Male,JPN,Japan,Japan,True,#809900
+83,2024-07-29,Gold Medal,1.0,Female,CAN,Canada,Canada,True,#CCFF1A
+84,2024-07-29,Silver Medal,2.0,Female,KOR,Korea,Korea,True,#E6B333
+85,2024-07-29,Bronze Medal,3.0,Female,JPN,Japan,Japan,True,#809900
+86,2024-07-29,Bronze Medal,3.0,Female,FRA,France,France,True,#99FF99
+87,2024-07-29,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+88,2024-07-29,Silver Medal,2.0,Male,SWE,Sweden,Sweden,True,#66991A
+89,2024-07-29,Bronze Medal,3.0,Male,CRO,Croatia,Croatia,True,#1AB399
+90,2024-07-29,Gold Medal,1.0,Female,KOR,Korea,Korea,True,#E6B333
+91,2024-07-29,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+92,2024-07-29,Bronze Medal,3.0,Female,SUI,Switzerland,Switzerland,True,#E666B3
+93,2024-07-29,Gold Medal,1.0,Male,JPN,Japan,Japan,True,#809900
+94,2024-07-29,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+95,2024-07-29,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+96,2024-07-29,Gold Medal,1.0,Male,ITA,Italy,Italy,True,#FFB399
+97,2024-07-29,Silver Medal,2.0,Male,CHN,China,China,True,#B33300
+98,2024-07-29,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+99,2024-07-29,Gold Medal,1.0,Male,ROU,Romania,Romania,True,#33991A
+100,2024-07-29,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+101,2024-07-29,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+102,2024-07-29,Gold Medal,1.0,Female,RSA,South Africa,South Africa,True,#991AFF
+103,2024-07-29,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+104,2024-07-29,Bronze Medal,3.0,Female,IRL,Ireland,Ireland,True,#CC9999
+105,2024-07-29,Gold Medal,1.0,Female,AUS,Australia,Australia,True,#FF33FF
+106,2024-07-29,Silver Medal,2.0,Female,AUS,Australia,Australia,True,#FF33FF
+107,2024-07-29,Bronze Medal,3.0,Female,HKG,"Hong Kong, China","Hong Kong, China",True,#999966
+108,2024-07-29,Gold Medal,1.0,Female,CAN,Canada,Canada,True,#CCFF1A
+109,2024-07-29,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+110,2024-07-29,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+111,2024-07-30,Gold Medal,1.0,Male,JPN,Japan,Japan,True,#809900
+112,2024-07-30,Silver Medal,2.0,Male,GEO,Georgia,Georgia,True,#B3B31A
+113,2024-07-30,Bronze Medal,3.0,Male,KOR,Korea,Korea,True,#E6B333
+114,2024-07-30,Bronze Medal,3.0,Male,TJK,Tajikistan,Tajikistan,True,#00E680
+115,2024-07-30,Gold Medal,1.0,Female,SLO,Slovenia,Slovenia,True,#4D8066
+116,2024-07-30,Silver Medal,2.0,Female,MEX,Mexico,Mexico,True,#809980
+117,2024-07-30,Bronze Medal,3.0,Female,FRA,France,France,True,#99FF99
+118,2024-07-30,Bronze Medal,3.0,Female,KOS,Kosovo,Kosovo,True,#4D8000
+119,2024-07-30,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+120,2024-07-30,Silver Medal,2.0,Male,CHN,China,China,True,#B33300
+121,2024-07-30,Bronze Medal,3.0,Male,GUA,Guatemala,Guatemala,True,#E6FF80
+122,2024-07-30,Gold Medal,1.0,Male,IRL,Ireland,Ireland,True,#CC9999
+123,2024-07-30,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+124,2024-07-30,Bronze Medal,3.0,Male,ITA,Italy,Italy,True,#FFB399
+125,2024-07-30,Gold Medal,1.0,Female,AUS,Australia,Australia,True,#FF33FF
+126,2024-07-30,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+127,2024-07-30,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+128,2024-07-31,Gold Medal,1.0,Male,JPN,Japan,Japan,True,#809900
+129,2024-07-31,Silver Medal,2.0,Male,CHN,China,China,True,#B33300
+130,2024-07-31,Bronze Medal,3.0,Male,CHN,China,China,True,#B33300
+131,2024-07-31,Gold Medal,1.0,Female,AUS,Australia,Australia,True,#FF33FF
+132,2024-07-31,Silver Medal,2.0,Female,GER,Germany,Germany,True,#FF99E6
+133,2024-07-31,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+134,2024-07-31,Gold Medal,1.0,Male,ARG,Argentina,Argentina,True,#1AFF33
+135,2024-07-31,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+136,2024-07-31,Bronze Medal,3.0,Male,FRA,France,France,True,#99FF99
+137,2024-07-31,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+138,2024-07-31,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+139,2024-07-31,Bronze Medal,3.0,Female,AUS,Australia,Australia,True,#FF33FF
+140,2024-07-31,Gold Medal,1.0,Male,GEO,Georgia,Georgia,True,#B3B31A
+141,2024-07-31,Silver Medal,2.0,Male,JPN,Japan,Japan,True,#809900
+142,2024-07-31,Bronze Medal,3.0,Male,FRA,France,France,True,#99FF99
+143,2024-07-31,Bronze Medal,3.0,Male,GRE,Greece,Greece,True,#999933
+144,2024-07-31,Gold Medal,1.0,Female,CRO,Croatia,Croatia,True,#1AB399
+145,2024-07-31,Silver Medal,2.0,Female,GER,Germany,Germany,True,#FF99E6
+146,2024-07-31,Bronze Medal,3.0,Female,AUT,Austria,Austria,True,#FF3380
+147,2024-07-31,Bronze Medal,3.0,Female,BEL,Belgium,Belgium,True,#FF6633
+148,2024-07-31,Gold Medal,1.0,Female,GUA,Guatemala,Guatemala,True,#E6FF80
+149,2024-07-31,Silver Medal,2.0,Female,ITA,Italy,Italy,True,#FFB399
+150,2024-07-31,Bronze Medal,3.0,Female,AUS,Australia,Australia,True,#FF33FF
+151,2024-07-31,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+152,2024-07-31,Silver Medal,2.0,Male,AUS,Australia,Australia,True,#FF33FF
+153,2024-07-31,Bronze Medal,3.0,Male,ROU,Romania,Romania,True,#33991A
+154,2024-07-31,Gold Medal,1.0,Male,FRA,France,France,True,#99FF99
+155,2024-07-31,Silver Medal,2.0,Male,AUS,Australia,Australia,True,#FF33FF
+156,2024-07-31,Bronze Medal,3.0,Male,NED,Netherlands,Netherlands,True,#CCCC00
+157,2024-07-31,Gold Medal,1.0,Male,FRA,France,France,True,#99FF99
+158,2024-07-31,Silver Medal,2.0,Male,HUN,Hungary,Hungary,True,#B34D4D
+159,2024-07-31,Bronze Medal,3.0,Male,CAN,Canada,Canada,True,#CCFF1A
+160,2024-07-31,Gold Medal,1.0,Female,SWE,Sweden,Sweden,True,#66991A
+161,2024-07-31,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+162,2024-07-31,Bronze Medal,3.0,Female,HKG,"Hong Kong, China","Hong Kong, China",True,#999966
+163,2024-07-31,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+164,2024-07-31,Silver Medal,2.0,Female,FRA,France,France,True,#99FF99
+165,2024-07-31,Bronze Medal,3.0,Female,GER,Germany,Germany,True,#FF99E6
+166,2024-07-31,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+167,2024-07-31,Silver Medal,2.0,Male,NZL,New Zealand,New Zealand,True,#66E64D
+168,2024-07-31,Bronze Medal,3.0,Male,FRA,France,France,True,#99FF99
+169,2024-07-31,Gold Medal,1.0,Female,FRA,France,France,True,#99FF99
+170,2024-07-31,Silver Medal,2.0,Female,SUI,Switzerland,Switzerland,True,#E666B3
+171,2024-07-31,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+172,2024-08-01,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+173,2024-08-01,Silver Medal,2.0,Female,BRA,Brazil,Brazil,True,#33FFCC
+174,2024-08-01,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+175,2024-08-01,Gold Medal,1.0,Male,ECU,Ecuador,Ecuador,True,#4D80CC
+176,2024-08-01,Silver Medal,2.0,Male,BRA,Brazil,Brazil,True,#33FFCC
+177,2024-08-01,Bronze Medal,3.0,Male,ESP,Spain,Spain,True,#E6B3B3
+178,2024-08-01,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+179,2024-08-01,Silver Medal,2.0,Female,ESP,Spain,Spain,True,#E6B3B3
+180,2024-08-01,Bronze Medal,3.0,Female,AUS,Australia,Australia,True,#FF33FF
+181,2024-08-01,Gold Medal,1.0,Male,ITA,Italy,Italy,True,#FFB399
+182,2024-08-01,Silver Medal,2.0,Male,FRA,France,France,True,#99FF99
+183,2024-08-01,Bronze Medal,3.0,Male,ESP,Spain,Spain,True,#E6B3B3
+184,2024-08-01,Gold Medal,1.0,Male,AZE,Azerbaijan,Azerbaijan,True,#4DB3FF
+185,2024-08-01,Silver Medal,2.0,Male,GEO,Georgia,Georgia,True,#B3B31A
+186,2024-08-01,Bronze Medal,3.0,Male,ISR,Israel,Israel,True,#9900B3
+187,2024-08-01,Bronze Medal,3.0,Male,UZB,Uzbekistan,Uzbekistan,True,#B366CC
+188,2024-08-01,Gold Medal,1.0,Female,ITA,Italy,Italy,True,#FFB399
+189,2024-08-01,Silver Medal,2.0,Female,ISR,Israel,Israel,True,#9900B3
+190,2024-08-01,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+191,2024-08-01,Bronze Medal,3.0,Female,POR,Portugal,Portugal,True,#E64D66
+192,2024-08-01,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+193,2024-08-01,Silver Medal,2.0,Male,UKR,Ukraine,Ukraine,True,#E666FF
+194,2024-08-01,Bronze Medal,3.0,Male,IND,India,India,True,#CC80CC
+195,2024-08-01,Gold Medal,1.0,Male,HUN,Hungary,Hungary,True,#B34D4D
+196,2024-08-01,Silver Medal,2.0,Male,GRE,Greece,Greece,True,#999933
+197,2024-08-01,Bronze Medal,3.0,Male,SUI,Switzerland,Switzerland,True,#E666B3
+198,2024-08-01,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+199,2024-08-01,Silver Medal,2.0,Female,RSA,South Africa,South Africa,True,#991AFF
+200,2024-08-01,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+201,2024-08-01,Gold Medal,1.0,Female,CAN,Canada,Canada,True,#CCFF1A
+202,2024-08-01,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+203,2024-08-01,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+204,2024-08-02,Gold Medal,1.0,Male,UGA,Uganda,Uganda,True,#4DB380
+205,2024-08-02,Silver Medal,2.0,Male,ETH,Ethiopia,Ethiopia,True,#FF4D4D
+206,2024-08-02,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+207,2024-08-02,Gold Medal,1.0,Male,FRA,France,France,True,#99FF99
+208,2024-08-02,Silver Medal,2.0,Male,FRA,France,France,True,#99FF99
+209,2024-08-02,Bronze Medal,3.0,Male,FRA,France,France,True,#99FF99
+210,2024-08-02,Gold Medal,1.0,Female,AUS,Australia,Australia,True,#FF33FF
+211,2024-08-02,Silver Medal,2.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+212,2024-08-02,Bronze Medal,3.0,Female,SUI,Switzerland,Switzerland,True,#E666B3
+213,2024-08-02,Gold Medal,1.0,Male,FRA,France,France,True,#99FF99
+214,2024-08-02,Silver Medal,2.0,Male,KOR,Korea,Korea,True,#E6B333
+215,2024-08-02,Bronze Medal,3.0,Male,TJK,Tajikistan,Tajikistan,True,#00E680
+216,2024-08-02,Bronze Medal,3.0,Male,UZB,Uzbekistan,Uzbekistan,True,#B366CC
+217,2024-08-02,Gold Medal,1.0,Female,BRA,Brazil,Brazil,True,#33FFCC
+218,2024-08-02,Silver Medal,2.0,Female,ISR,Israel,Israel,True,#9900B3
+219,2024-08-02,Bronze Medal,3.0,Female,KOR,Korea,Korea,True,#E6B333
+220,2024-08-02,Bronze Medal,3.0,Female,FRA,France,France,True,#99FF99
+221,2024-08-02,Gold Medal,1.0,Female,SUI,Switzerland,Switzerland,True,#E666B3
+222,2024-08-02,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+223,2024-08-02,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+224,2024-08-02,Gold Medal,1.0,Male,FRA,France,France,True,#99FF99
+225,2024-08-02,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+226,2024-08-02,Bronze Medal,3.0,Male,CHN,China,China,True,#B33300
+227,2024-08-02,Gold Medal,1.0,Male,AUS,Australia,Australia,True,#FF33FF
+228,2024-08-02,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+229,2024-08-02,Bronze Medal,3.0,Male,FRA,France,France,True,#99FF99
+230,2024-08-02,Gold Medal,1.0,Female,AUS,Australia,Australia,True,#FF33FF
+231,2024-08-02,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+232,2024-08-02,Bronze Medal,3.0,Female,CAN,Canada,Canada,True,#CCFF1A
+233,2024-08-02,Bronze Medal,3.0,Female,POL,Poland,Poland,True,#FF1A66
+234,2024-08-02,Gold Medal,1.0,Male,AIN,AIN,Belarus,True,#99E6E6
+235,2024-08-02,Silver Medal,2.0,Male,CHN,China,China,True,#B33300
+236,2024-08-02,Bronze Medal,3.0,Male,CHN,China,China,True,#B33300
+237,2024-08-02,Gold Medal,1.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+238,2024-08-02,Silver Medal,2.0,Female,AIN,AIN,Belarus,True,#99E6E6
+239,2024-08-02,Bronze Medal,3.0,Female,CAN,Canada,Canada,True,#CCFF1A
+240,2024-08-03,Gold Medal,1.0,Female,KOR,Korea,Korea,True,#E6B333
+241,2024-08-03,Silver Medal,2.0,Female,KOR,Korea,Korea,True,#E6B333
+242,2024-08-03,Bronze Medal,3.0,Female,FRA,France,France,True,#99FF99
+243,2024-08-03,Gold Medal,1.0,Male,PHI,Philippines,Philippines,True,#6666FF
+244,2024-08-03,Silver Medal,2.0,Male,ISR,Israel,Israel,True,#9900B3
+245,2024-08-03,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+246,2024-08-03,Gold Medal,1.0,Male,IRL,Ireland,Ireland,True,#CC9999
+247,2024-08-03,Silver Medal,2.0,Male,KAZ,Kazakhstan,Kazakhstan,True,#80B300
+248,2024-08-03,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+249,2024-08-03,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+250,2024-08-03,Silver Medal,2.0,Female,BRA,Brazil,Brazil,True,#33FFCC
+251,2024-08-03,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+252,2024-08-03,Gold Medal,1.0,Male,NOR,Norway,Norway,True,#003366
+253,2024-08-03,Silver Medal,2.0,Male,GER,Germany,Germany,True,#FF99E6
+254,2024-08-03,Bronze Medal,3.0,Male,GRN,Grenada,Grenada,True,#663399
+255,2024-08-03,Gold Medal,1.0,Male,USA,United States,United States,True,#00B3E6
+256,2024-08-03,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+257,2024-08-03,Bronze Medal,3.0,Male,JAM,Jamaica,Jamaica,True,#FF6666
+258,2024-08-03,Gold Medal,1.0,Female,LCA,Saint Lucia,Saint Lucia,True,#66CCFF
+259,2024-08-03,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+260,2024-08-03,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+261,2024-08-03,Gold Medal,1.0,Female,DMA,Dominica,Dominica,True,#669999
+262,2024-08-03,Silver Medal,2.0,Female,JAM,Jamaica,Jamaica,True,#FF6666
+263,2024-08-03,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+264,2024-08-03,Bronze Medal,3.0,Female,TPE,Chinese Taipei,Chinese Taipei,True,#FF9966
+265,2024-08-03,Bronze Medal,3.0,Female,BRA,Brazil,Brazil,True,#33FFCC
+266,2024-08-03,Gold Medal,1.0,Male,BEL,Belgium,Belgium,True,#FF6633
+267,2024-08-03,Silver Medal,2.0,Male,FRA,France,France,True,#99FF99
+268,2024-08-03,Bronze Medal,3.0,Male,FRA,France,France,True,#99FF99
+269,2024-08-03,Gold Medal,1.0,Male,GER,Germany,Germany,True,#FF99E6
+270,2024-08-03,Silver Medal,2.0,Male,AIN,AIN,Belarus,True,#99E6E6
+271,2024-08-03,Bronze Medal,3.0,Male,NED,Netherlands,Netherlands,True,#CCCC00
+272,2024-08-03,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+273,2024-08-03,Silver Medal,2.0,Female,NZL,New Zealand,New Zealand,True,#66E64D
+274,2024-08-03,Bronze Medal,3.0,Female,LTU,Lithuania,Lithuania,True,#66FF33
+275,2024-08-03,Gold Medal,1.0,Male,ISR,Israel,Israel,True,#9900B3
+276,2024-08-03,Silver Medal,2.0,Male,AUS,Australia,Australia,True,#FF33FF
+277,2024-08-03,Bronze Medal,3.0,Male,NED,Netherlands,Netherlands,True,#CCCC00
+278,2024-08-03,Gold Medal,1.0,Female,ITA,Italy,Italy,True,#FFB399
+279,2024-08-03,Silver Medal,2.0,Female,ISR,Israel,Israel,True,#9900B3
+280,2024-08-03,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+281,2024-08-03,Gold Medal,1.0,Female,KOR,Korea,Korea,True,#E6B333
+282,2024-08-03,Silver Medal,2.0,Female,FRA,France,France,True,#99FF99
+283,2024-08-03,Bronze Medal,3.0,Female,HUN,Hungary,Hungary,True,#B34D4D
+284,2024-08-03,Gold Medal,1.0,Male,USA,United States,United States,True,#00B3E6
+285,2024-08-03,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+286,2024-08-03,Bronze Medal,3.0,Male,TPE,Chinese Taipei,Chinese Taipei,True,#FF9966
+287,2024-08-03,Gold Medal,1.0,Male,HUN,Hungary,Hungary,True,#B34D4D
+288,2024-08-03,Silver Medal,2.0,Male,CAN,Canada,Canada,True,#CCFF1A
+289,2024-08-03,Bronze Medal,3.0,Male,CAN,Canada,Canada,True,#CCFF1A
+290,2024-08-03,Gold Medal,1.0,Female,CAN,Canada,Canada,True,#CCFF1A
+291,2024-08-03,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+292,2024-08-03,Bronze Medal,3.0,Female,AUS,Australia,Australia,True,#FF33FF
+293,2024-08-03,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+294,2024-08-03,Silver Medal,2.0,Female,AUS,Australia,Australia,True,#FF33FF
+295,2024-08-03,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+296,2024-08-03,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+297,2024-08-03,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+298,2024-08-03,Bronze Medal,3.0,Female,JPN,Japan,Japan,True,#809900
+299,2024-08-03,Bronze Medal,3.0,Male,ITA,Italy,Italy,True,#FFB399
+300,2024-08-03,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+301,2024-08-03,Silver Medal,2.0,Female,CRO,Croatia,Croatia,True,#1AB399
+302,2024-08-04,Gold Medal,1.0,Male,KOR,Korea,Korea,True,#E6B333
+303,2024-08-04,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+304,2024-08-04,Bronze Medal,3.0,Male,KOR,Korea,Korea,True,#E6B333
+305,2024-08-04,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+306,2024-08-04,Silver Medal,2.0,Male,CHN,China,China,True,#B33300
+307,2024-08-04,Bronze Medal,3.0,Male,GRE,Greece,Greece,True,#999933
+308,2024-08-04,Gold Medal,1.0,Male,PHI,Philippines,Philippines,True,#6666FF
+309,2024-08-04,Silver Medal,2.0,Male,ARM,Armenia,Armenia,True,#CC3333
+310,2024-08-04,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+311,2024-08-04,Gold Medal,1.0,Female,ALG,Algeria,Algeria,True,#FFCC00
+312,2024-08-04,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+313,2024-08-04,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+314,2024-08-04,Gold Medal,1.0,Male,USA,United States,United States,True,#00B3E6
+315,2024-08-04,Silver Medal,2.0,Male,JAM,Jamaica,Jamaica,True,#FF6666
+316,2024-08-04,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+317,2024-08-04,Gold Medal,1.0,Male,CAN,Canada,Canada,True,#CCFF1A
+318,2024-08-04,Silver Medal,2.0,Male,HUN,Hungary,Hungary,True,#B34D4D
+319,2024-08-04,Bronze Medal,3.0,Male,UKR,Ukraine,Ukraine,True,#E666FF
+320,2024-08-04,Gold Medal,1.0,Female,UKR,Ukraine,Ukraine,True,#E666FF
+321,2024-08-04,Silver Medal,2.0,Female,AUS,Australia,Australia,True,#FF33FF
+322,2024-08-04,Bronze Medal,3.0,Female,UKR,Ukraine,Ukraine,True,#E666FF
+323,2024-08-04,Bronze Medal,3.0,Female,AUS,Australia,Australia,True,#FF33FF
+324,2024-08-04,Bronze Medal,,Female,INA,Indonesia,Indonesia,True,#336666
+325,2024-08-04,Bronze Medal,3.0,Male,DOM,Dominican Republic,Dominican Republic,True,#33CCCC
+326,2024-08-04,Bronze Medal,3.0,Male,CPV,Cabo Verde,Cabo Verde,True,#99CC33
+327,2024-08-04,Bronze Medal,3.0,Male,CAN,Canada,Canada,True,#CCFF1A
+328,2024-08-04,Bronze Medal,3.0,Male,GEO,Georgia,Georgia,True,#B3B31A
+329,2024-08-04,Bronze Medal,3.0,Male,DOM,Dominican Republic,Dominican Republic,True,#33CCCC
+330,2024-08-04,Bronze Medal,3.0,Male,CUB,Cuba,Cuba,True,#FF66CC
+331,2024-08-04,Bronze Medal,3.0,Male,ESP,Spain,Spain,True,#E6B3B3
+332,2024-08-04,Bronze Medal,3.0,Male,TJK,Tajikistan,Tajikistan,True,#00E680
+333,2024-08-04,Bronze Medal,3.0,Female,PRK,DPR Korea,DPR Korea,True,#99CCCC
+334,2024-08-04,Bronze Medal,3.0,Female,KOR,Korea,Korea,True,#E6B333
+335,2024-08-04,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+336,2024-08-04,Silver Medal,2.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+337,2024-08-04,Bronze Medal,3.0,Female,BEL,Belgium,Belgium,True,#FF6633
+338,2024-08-04,Gold Medal,1.0,Female,GER,Germany,Germany,True,#FF99E6
+339,2024-08-04,Silver Medal,2.0,Female,GER,Germany,Germany,True,#FF99E6
+340,2024-08-04,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+341,2024-08-04,Gold Medal,1.0,Male,USA,United States,United States,True,#00B3E6
+342,2024-08-04,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+343,2024-08-04,Bronze Medal,3.0,Male,JPN,Japan,Japan,True,#809900
+344,2024-08-04,Gold Medal,1.0,Female,CHI,Chile,Chile,True,#996699
+345,2024-08-04,Silver Medal,2.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+346,2024-08-04,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+347,2024-08-04,Gold Medal,1.0,Male,USA,United States,United States,True,#00B3E6
+348,2024-08-04,Silver Medal,2.0,Male,ITA,Italy,Italy,True,#FFB399
+349,2024-08-04,Bronze Medal,3.0,Male,IRL,Ireland,Ireland,True,#CC9999
+350,2024-08-04,Gold Medal,1.0,Female,SWE,Sweden,Sweden,True,#66991A
+351,2024-08-04,Silver Medal,2.0,Female,AUS,Australia,Australia,True,#FF33FF
+352,2024-08-04,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+353,2024-08-04,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+354,2024-08-04,Silver Medal,2.0,Male,SWE,Sweden,Sweden,True,#66991A
+355,2024-08-04,Bronze Medal,3.0,Male,FRA,France,France,True,#99FF99
+356,2024-08-04,Gold Medal,1.0,Male,SRB,Serbia,Serbia,True,#FF99CC
+357,2024-08-04,Silver Medal,2.0,Male,ESP,Spain,Spain,True,#E6B3B3
+358,2024-08-05,Gold Medal,1.0,Male,JPN,Japan,Japan,True,#809900
+359,2024-08-05,Silver Medal,2.0,Male,COL,Colombia,Colombia,True,#CCCC99
+360,2024-08-05,Bronze Medal,3.0,Male,CHN,China,China,True,#B33300
+361,2024-08-05,Bronze Medal,3.0,Male,TPE,Chinese Taipei,Chinese Taipei,True,#FF9966
+362,2024-08-05,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+363,2024-08-05,Silver Medal,2.0,Male,UKR,Ukraine,Ukraine,True,#E666FF
+364,2024-08-05,Bronze Medal,3.0,Male,JPN,Japan,Japan,True,#809900
+365,2024-08-05,Gold Medal,1.0,Female,ITA,Italy,Italy,True,#FFB399
+366,2024-08-05,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+367,2024-08-05,Bronze Medal,3.0,Female,ITA,Italy,Italy,True,#FFB399
+368,2024-08-05,Gold Medal,1.0,Female,BRA,Brazil,Brazil,True,#33FFCC
+369,2024-08-05,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+370,2024-08-05,Bronze Medal,3.0,Female,ROU,Romania,Romania,True,#33991A
+371,2024-08-05,Gold Medal,1.0,Male,SWE,Sweden,Sweden,True,#66991A
+372,2024-08-05,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+373,2024-08-05,Bronze Medal,3.0,Male,GRE,Greece,Greece,True,#999933
+374,2024-08-05,Gold Medal,1.0,Female,KEN,Kenya,Kenya,True,#9999CC
+375,2024-08-05,Silver Medal,2.0,Female,KEN,Kenya,Kenya,True,#9999CC
+376,2024-08-05,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+377,2024-08-05,Gold Medal,1.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+378,2024-08-05,Silver Medal,2.0,Female,ETH,Ethiopia,Ethiopia,True,#FF4D4D
+379,2024-08-05,Bronze Medal,3.0,Female,KEN,Kenya,Kenya,True,#9999CC
+380,2024-08-05,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+381,2024-08-05,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+382,2024-08-05,Bronze Medal,3.0,Female,CRO,Croatia,Croatia,True,#1AB399
+383,2024-08-05,Gold Medal,1.0,Male,DEN,Denmark,Denmark,True,#33CC66
+384,2024-08-05,Silver Medal,2.0,Male,THA,Thailand,Thailand,True,#FF6666
+385,2024-08-05,Bronze Medal,3.0,Male,MAS,Malaysia,Malaysia,True,#3366FF
+386,2024-08-05,Gold Medal,1.0,Female,KOR,Korea,Korea,True,#E6B333
+387,2024-08-05,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+388,2024-08-05,Gold Medal,1.0,Male,NZL,New Zealand,New Zealand,True,#66E64D
+389,2024-08-05,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+390,2024-08-05,Bronze Medal,3.0,Male,GER,Germany,Germany,True,#FF99E6
+391,2024-08-05,Gold Medal,1.0,Female,AUS,Australia,Australia,True,#FF33FF
+392,2024-08-05,Silver Medal,2.0,Female,FRA,France,France,True,#99FF99
+393,2024-08-05,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+394,2024-08-05,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+395,2024-08-05,Silver Medal,2.0,Male,KOR,Korea,Korea,True,#E6B333
+396,2024-08-05,Bronze Medal,3.0,Male,CHN,China,China,True,#B33300
+397,2024-08-05,Gold Medal,1.0,Male,FRA,France,France,True,#99FF99
+398,2024-08-05,Silver Medal,2.0,Male,AUS,Australia,Australia,True,#FF33FF
+399,2024-08-05,Bronze Medal,3.0,Male,BRA,Brazil,Brazil,True,#33FFCC
+400,2024-08-05,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+401,2024-08-05,Silver Medal,2.0,Female,BRA,Brazil,Brazil,True,#33FFCC
+402,2024-08-05,Bronze Medal,3.0,Female,FRA,France,France,True,#99FF99
+403,2024-08-06,Gold Medal,1.0,Male,USA,United States,United States,True,#00B3E6
+404,2024-08-06,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+405,2024-08-06,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+406,2024-08-06,Gold Medal,1.0,Male,GRE,Greece,Greece,True,#999933
+407,2024-08-06,Silver Medal,2.0,Male,JAM,Jamaica,Jamaica,True,#FF6666
+408,2024-08-06,Bronze Medal,3.0,Male,ITA,Italy,Italy,True,#FFB399
+409,2024-08-06,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+410,2024-08-06,Silver Medal,2.0,Female,LCA,Saint Lucia,Saint Lucia,True,#66CCFF
+411,2024-08-06,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+412,2024-08-06,Gold Medal,1.0,Female,BRN,Bahrain,Bahrain,True,#9999FF
+413,2024-08-06,Silver Medal,2.0,Female,UGA,Uganda,Uganda,True,#4DB380
+414,2024-08-06,Bronze Medal,3.0,Female,KEN,Kenya,Kenya,True,#9999CC
+415,2024-08-06,Gold Medal,1.0,Female,CAN,Canada,Canada,True,#CCFF1A
+416,2024-08-06,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+417,2024-08-06,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+418,2024-08-06,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+419,2024-08-06,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+420,2024-08-06,Bronze Medal,3.0,Female,KAZ,Kazakhstan,Kazakhstan,True,#80B300
+421,2024-08-06,Bronze Medal,3.0,Female,PHI,Philippines,Philippines,True,#6666FF
+422,2024-08-06,Gold Medal,1.0,Female,IRL,Ireland,Ireland,True,#CC9999
+423,2024-08-06,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+424,2024-08-06,Bronze Medal,3.0,Female,THA,Thailand,Thailand,True,#FF6666
+425,2024-08-06,Bronze Medal,3.0,Female,TPE,Chinese Taipei,Chinese Taipei,True,#FF9966
+426,2024-08-06,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+427,2024-08-06,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+428,2024-08-06,Bronze Medal,3.0,Female,PRK,DPR Korea,DPR Korea,True,#99CCCC
+429,2024-08-06,Gold Medal,1.0,Male,GER,Germany,Germany,True,#FF99E6
+430,2024-08-06,Silver Medal,2.0,Male,SUI,Switzerland,Switzerland,True,#E666B3
+431,2024-08-06,Bronze Medal,3.0,Male,NED,Netherlands,Netherlands,True,#CCCC00
+432,2024-08-06,Gold Medal,1.0,Female,AUS,Australia,Australia,True,#FF33FF
+433,2024-08-06,Silver Medal,2.0,Female,JPN,Japan,Japan,True,#809900
+434,2024-08-06,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+435,2024-08-06,Gold Medal,1.0,Male,CUB,Cuba,Cuba,True,#FF66CC
+436,2024-08-06,Silver Medal,2.0,Male,CHI,Chile,Chile,True,#996699
+437,2024-08-06,Bronze Medal,3.0,Male,IRI,IR Iran,IR Iran,True,#666633
+438,2024-08-06,Bronze Medal,3.0,Male,CHN,China,China,True,#B33300
+439,2024-08-06,Gold Medal,1.0,Male,JPN,Japan,Japan,True,#809900
+440,2024-08-06,Silver Medal,2.0,Male,CHN,China,China,True,#B33300
+441,2024-08-06,Bronze Medal,3.0,Male,KGZ,Kyrgyzstan,Kyrgyzstan,True,#CC9966
+442,2024-08-06,Bronze Medal,3.0,Male,PRK,DPR Korea,DPR Korea,True,#99CCCC
+443,2024-08-06,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+444,2024-08-06,Silver Medal,2.0,Female,KGZ,Kyrgyzstan,Kyrgyzstan,True,#CC9966
+445,2024-08-06,Bronze Medal,3.0,Female,TUR,Türkiye,Türkiye,True,#663333
+446,2024-08-06,Bronze Medal,3.0,Female,JPN,Japan,Japan,True,#809900
+447,2024-08-07,Gold Medal,1.0,Male,MAR,Morocco,Morocco,True,#3399FF
+448,2024-08-07,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+449,2024-08-07,Bronze Medal,3.0,Male,KEN,Kenya,Kenya,True,#9999CC
+450,2024-08-07,Gold Medal,1.0,Male,USA,United States,United States,True,#00B3E6
+451,2024-08-07,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+452,2024-08-07,Bronze Medal,3.0,Male,ZAM,Zambia,Zambia,True,#FF9966
+453,2024-08-07,Gold Medal,1.0,Male,JAM,Jamaica,Jamaica,True,#FF6666
+454,2024-08-07,Silver Medal,2.0,Male,LTU,Lithuania,Lithuania,True,#66FF33
+455,2024-08-07,Bronze Medal,3.0,Male,AUS,Australia,Australia,True,#FF33FF
+456,2024-08-07,Gold Medal,1.0,Female,AUS,Australia,Australia,True,#FF33FF
+457,2024-08-07,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+458,2024-08-07,Bronze Medal,3.0,Female,CAN,Canada,Canada,True,#CCFF1A
+459,2024-08-07,Bronze Medal,3.0,Male,GER,Germany,Germany,True,#FF99E6
+460,2024-08-07,Bronze Medal,3.0,Male,FRA,France,France,True,#99FF99
+461,2024-08-07,Gold Medal,1.0,Male,CUB,Cuba,Cuba,True,#FF66CC
+462,2024-08-07,Silver Medal,2.0,Male,FRA,France,France,True,#99FF99
+463,2024-08-07,Gold Medal,1.0,Male,UKR,Ukraine,Ukraine,True,#E666FF
+464,2024-08-07,Silver Medal,2.0,Male,KAZ,Kazakhstan,Kazakhstan,True,#80B300
+465,2024-08-07,Bronze Medal,3.0,Female,TUR,Türkiye,Türkiye,True,#663333
+466,2024-08-07,Bronze Medal,3.0,Female,PHI,Philippines,Philippines,True,#6666FF
+467,2024-08-07,Gold Medal,1.0,Male,AUS,Australia,Australia,True,#FF33FF
+468,2024-08-07,Silver Medal,2.0,Male,CYP,Cyprus,Cyprus,True,#FF6699
+469,2024-08-07,Bronze Medal,3.0,Male,PER,Peru,Peru,True,#33FF99
+470,2024-08-07,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+471,2024-08-07,Silver Medal,2.0,Female,DEN,Denmark,Denmark,True,#33CC66
+472,2024-08-07,Bronze Medal,3.0,Female,NOR,Norway,Norway,True,#003366
+473,2024-08-07,Gold Medal,1.0,Male,AUS,Australia,Australia,True,#FF33FF
+474,2024-08-07,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+475,2024-08-07,Bronze Medal,3.0,Male,BRA,Brazil,Brazil,True,#33FFCC
+476,2024-08-07,Gold Medal,1.0,Female,POL,Poland,Poland,True,#FF1A66
+477,2024-08-07,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+478,2024-08-07,Bronze Medal,3.0,Female,POL,Poland,Poland,True,#FF1A66
+479,2024-08-07,Gold Medal,1.0,Male,KOR,Korea,Korea,True,#E6B333
+480,2024-08-07,Silver Medal,2.0,Male,AZE,Azerbaijan,Azerbaijan,True,#4DB3FF
+481,2024-08-07,Bronze Medal,3.0,Male,FRA,France,France,True,#99FF99
+482,2024-08-07,Bronze Medal,3.0,Male,TUN,Tunisia,Tunisia,True,#3366E6
+483,2024-08-07,Gold Medal,1.0,Female,THA,Thailand,Thailand,True,#FF6666
+484,2024-08-07,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+485,2024-08-07,Bronze Medal,3.0,Female,IRI,IR Iran,IR Iran,True,#666633
+486,2024-08-07,Bronze Medal,3.0,Female,CRO,Croatia,Croatia,True,#1AB399
+487,2024-08-07,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+488,2024-08-07,Silver Medal,2.0,Male,THA,Thailand,Thailand,True,#FF6666
+489,2024-08-07,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+490,2024-08-07,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+491,2024-08-07,Silver Medal,2.0,Female,ROU,Romania,Romania,True,#33991A
+492,2024-08-07,Bronze Medal,3.0,Female,THA,Thailand,Thailand,True,#FF6666
+493,2024-08-07,Gold Medal,1.0,Male,JPN,Japan,Japan,True,#809900
+494,2024-08-07,Silver Medal,2.0,Male,KAZ,Kazakhstan,Kazakhstan,True,#80B300
+495,2024-08-07,Bronze Medal,3.0,Male,ARM,Armenia,Armenia,True,#CC3333
+496,2024-08-07,Bronze Medal,3.0,Male,KGZ,Kyrgyzstan,Kyrgyzstan,True,#CC9966
+497,2024-08-07,Gold Medal,1.0,Male,IRI,IR Iran,IR Iran,True,#666633
+498,2024-08-07,Silver Medal,2.0,Male,ARM,Armenia,Armenia,True,#CC3333
+499,2024-08-07,Bronze Medal,3.0,Male,CUB,Cuba,Cuba,True,#FF66CC
+500,2024-08-07,Bronze Medal,3.0,Male,KGZ,Kyrgyzstan,Kyrgyzstan,True,#CC9966
+501,2024-08-07,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+502,2024-08-07,Silver Medal,2.0,Female,CUB,Cuba,Cuba,True,#FF66CC
+503,2024-08-07,Bronze Medal,3.0,Female,JPN,Japan,Japan,True,#809900
+504,2024-08-07,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+505,2024-08-08,Gold Medal,1.0,Male,USA,United States,United States,True,#00B3E6
+506,2024-08-08,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+507,2024-08-08,Bronze Medal,3.0,Male,JAM,Jamaica,Jamaica,True,#FF6666
+508,2024-08-08,Gold Medal,1.0,Male,BOT,Botswana,Botswana,True,#6699FF
+509,2024-08-08,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+510,2024-08-08,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+511,2024-08-08,Gold Medal,1.0,Male,PAK,Pakistan,Pakistan,True,#9966FF
+512,2024-08-08,Silver Medal,2.0,Male,IND,India,India,True,#CC80CC
+513,2024-08-08,Bronze Medal,3.0,Male,GRN,Grenada,Grenada,True,#663399
+514,2024-08-08,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+515,2024-08-08,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+516,2024-08-08,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+517,2024-08-08,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+518,2024-08-08,Silver Medal,2.0,Female,GER,Germany,Germany,True,#FF99E6
+519,2024-08-08,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+520,2024-08-08,Gold Medal,1.0,Male,UZB,Uzbekistan,Uzbekistan,True,#B366CC
+521,2024-08-08,Silver Medal,2.0,Male,FRA,France,France,True,#99FF99
+522,2024-08-08,Bronze Medal,3.0,Male,AUS,Australia,Australia,True,#FF33FF
+523,2024-08-08,Bronze Medal,3.0,Male,BUL,Bulgaria,Bulgaria,True,#FF9966
+524,2024-08-08,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+525,2024-08-08,Silver Medal,2.0,Female,TUR,Türkiye,Türkiye,True,#663333
+526,2024-08-08,Bronze Medal,3.0,Female,AUS,Australia,Australia,True,#FF33FF
+527,2024-08-08,Bronze Medal,3.0,Female,EOR,EOR,Cameroon,True,#669933
+528,2024-08-08,Gold Medal,1.0,Male,FRA,France,France,True,#99FF99
+529,2024-08-08,Silver Medal,2.0,Male,POR,Portugal,Portugal,True,#E64D66
+530,2024-08-08,Bronze Medal,3.0,Male,BEL,Belgium,Belgium,True,#FF6633
+531,2024-08-08,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True,#66E64D
+532,2024-08-08,Silver Medal,2.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+533,2024-08-08,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+534,2024-08-08,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+535,2024-08-08,Silver Medal,2.0,Male,CHN,China,China,True,#B33300
+536,2024-08-08,Bronze Medal,3.0,Male,MEX,Mexico,Mexico,True,#809980
+537,2024-08-08,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+538,2024-08-08,Silver Medal,2.0,Female,AUS,Australia,Australia,True,#FF33FF
+539,2024-08-08,Bronze Medal,3.0,Female,ITA,Italy,Italy,True,#FFB399
+540,2024-08-08,Gold Medal,1.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+541,2024-08-08,Silver Medal,2.0,Female,FRA,France,France,True,#99FF99
+542,2024-08-08,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+543,2024-08-08,Gold Medal,1.0,Male,INA,Indonesia,Indonesia,True,#336666
+544,2024-08-08,Silver Medal,2.0,Male,CHN,China,China,True,#B33300
+545,2024-08-08,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+546,2024-08-08,Gold Medal,1.0,Male,UZB,Uzbekistan,Uzbekistan,True,#B366CC
+547,2024-08-08,Silver Medal,2.0,Male,JOR,Jordan,Jordan,True,#99FF66
+548,2024-08-08,Bronze Medal,3.0,Male,CHN,China,China,True,#B33300
+549,2024-08-08,Bronze Medal,3.0,Male,BRA,Brazil,Brazil,True,#33FFCC
+550,2024-08-08,Gold Medal,1.0,Female,KOR,Korea,Korea,True,#E6B333
+551,2024-08-08,Silver Medal,2.0,Female,IRI,IR Iran,IR Iran,True,#666633
+552,2024-08-08,Bronze Medal,3.0,Female,CAN,Canada,Canada,True,#CCFF1A
+553,2024-08-08,Bronze Medal,3.0,Female,BUL,Bulgaria,Bulgaria,True,#FF9966
+554,2024-08-08,Gold Medal,1.0,Male,INA,Indonesia,Indonesia,True,#336666
+555,2024-08-08,Silver Medal,2.0,Male,THA,Thailand,Thailand,True,#FF6666
+556,2024-08-08,Bronze Medal,3.0,Male,BUL,Bulgaria,Bulgaria,True,#FF9966
+557,2024-08-08,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+558,2024-08-08,Silver Medal,2.0,Female,CAN,Canada,Canada,True,#CCFF1A
+559,2024-08-08,Bronze Medal,3.0,Female,TPE,Chinese Taipei,Chinese Taipei,True,#FF9966
+560,2024-08-08,Gold Medal,1.0,Male,IRI,IR Iran,IR Iran,True,#666633
+561,2024-08-08,Silver Medal,2.0,Male,UKR,Ukraine,Ukraine,True,#E666FF
+562,2024-08-08,Bronze Medal,3.0,Male,AZE,Azerbaijan,Azerbaijan,True,#4DB3FF
+563,2024-08-08,Bronze Medal,3.0,Male,CUB,Cuba,Cuba,True,#FF66CC
+564,2024-08-08,Gold Medal,1.0,Male,BUL,Bulgaria,Bulgaria,True,#FF9966
+565,2024-08-08,Silver Medal,2.0,Male,IRI,IR Iran,IR Iran,True,#666633
+566,2024-08-08,Bronze Medal,3.0,Male,UKR,Ukraine,Ukraine,True,#E666FF
+567,2024-08-08,Bronze Medal,3.0,Male,DEN,Denmark,Denmark,True,#33CC66
+568,2024-08-08,Gold Medal,1.0,Female,JPN,Japan,Japan,True,#809900
+569,2024-08-08,Silver Medal,2.0,Female,ECU,Ecuador,Ecuador,True,#4D80CC
+570,2024-08-08,Bronze Medal,3.0,Female,PRK,DPR Korea,DPR Korea,True,#99CCCC
+571,2024-08-08,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+572,2024-08-09,Gold Medal,1.0,Male,USA,United States,United States,True,#00B3E6
+573,2024-08-09,Silver Medal,2.0,Male,NOR,Norway,Norway,True,#003366
+574,2024-08-09,Bronze Medal,3.0,Male,BRA,Brazil,Brazil,True,#33FFCC
+575,2024-08-09,Gold Medal,1.0,Male,ESP,Spain,Spain,True,#E6B3B3
+576,2024-08-09,Silver Medal,2.0,Male,POR,Portugal,Portugal,True,#E64D66
+577,2024-08-09,Bronze Medal,3.0,Male,ITA,Italy,Italy,True,#FFB399
+578,2024-08-09,Gold Medal,1.0,Female,KEN,Kenya,Kenya,True,#9999CC
+579,2024-08-09,Silver Medal,2.0,Female,ITA,Italy,Italy,True,#FFB399
+580,2024-08-09,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+581,2024-08-09,Gold Medal,1.0,Female,DOM,Dominican Republic,Dominican Republic,True,#33CCCC
+582,2024-08-09,Silver Medal,2.0,Female,BRN,Bahrain,Bahrain,True,#9999FF
+583,2024-08-09,Bronze Medal,3.0,Female,POL,Poland,Poland,True,#FF1A66
+584,2024-08-09,Gold Medal,1.0,Female,GER,Germany,Germany,True,#FF99E6
+585,2024-08-09,Silver Medal,2.0,Female,NZL,New Zealand,New Zealand,True,#66E64D
+586,2024-08-09,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+587,2024-08-09,Gold Medal,1.0,Male,UZB,Uzbekistan,Uzbekistan,True,#B366CC
+588,2024-08-09,Silver Medal,2.0,Male,MEX,Mexico,Mexico,True,#809980
+589,2024-08-09,Gold Medal,1.0,Male,UZB,Uzbekistan,Uzbekistan,True,#B366CC
+590,2024-08-09,Silver Medal,2.0,Male,AZE,Azerbaijan,Azerbaijan,True,#4DB3FF
+591,2024-08-09,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+592,2024-08-09,Silver Medal,2.0,Female,TUR,Türkiye,Türkiye,True,#663333
+593,2024-08-09,Gold Medal,1.0,Female,ALG,Algeria,Algeria,True,#FFCC00
+594,2024-08-09,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+595,2024-08-09,Gold Medal,1.0,Female,JPN,Japan,Japan,True,#809900
+596,2024-08-09,Silver Medal,2.0,Female,LTU,Lithuania,Lithuania,True,#66FF33
+597,2024-08-09,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+598,2024-08-09,Gold Medal,1.0,Male,CZE,Czechia,Czechia,True,#33FFCC
+599,2024-08-09,Silver Medal,2.0,Male,BRA,Brazil,Brazil,True,#33FFCC
+600,2024-08-09,Bronze Medal,3.0,Male,MDA,Republic of Moldova,Republic of Moldova,True,#66994D
+601,2024-08-09,Gold Medal,1.0,Male,NED,Netherlands,Netherlands,True,#CCCC00
+602,2024-08-09,Silver Medal,2.0,Male,AUS,Australia,Australia,True,#FF33FF
+603,2024-08-09,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+604,2024-08-09,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+605,2024-08-09,Silver Medal,2.0,Female,AUS,Australia,Australia,True,#FF33FF
+606,2024-08-09,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+607,2024-08-09,Gold Medal,1.0,Male,HUN,Hungary,Hungary,True,#B34D4D
+608,2024-08-09,Silver Medal,2.0,Male,GER,Germany,Germany,True,#FF99E6
+609,2024-08-09,Bronze Medal,3.0,Male,HUN,Hungary,Hungary,True,#B34D4D
+610,2024-08-09,Gold Medal,1.0,Male,AUT,Austria,Austria,True,#FF3380
+611,2024-08-09,Silver Medal,2.0,Male,SLO,Slovenia,Slovenia,True,#4D8066
+612,2024-08-09,Bronze Medal,3.0,Male,SGP,Singapore,Singapore,True,#9933FF
+613,2024-08-09,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+614,2024-08-09,Silver Medal,2.0,Male,JPN,Japan,Japan,True,#809900
+615,2024-08-09,Bronze Medal,3.0,Male,AUT,Austria,Austria,True,#FF3380
+616,2024-08-09,Gold Medal,1.0,Male,TUN,Tunisia,Tunisia,True,#3366E6
+617,2024-08-09,Silver Medal,2.0,Male,IRI,IR Iran,IR Iran,True,#666633
+618,2024-08-09,Bronze Medal,3.0,Male,ITA,Italy,Italy,True,#FFB399
+619,2024-08-09,Bronze Medal,3.0,Male,DEN,Denmark,Denmark,True,#33CC66
+620,2024-08-09,Gold Medal,1.0,Female,HUN,Hungary,Hungary,True,#B34D4D
+621,2024-08-09,Silver Medal,2.0,Female,SRB,Serbia,Serbia,True,#FF99CC
+622,2024-08-09,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+623,2024-08-09,Bronze Medal,3.0,Female,BEL,Belgium,Belgium,True,#FF6633
+624,2024-08-09,Gold Medal,1.0,Male,BUL,Bulgaria,Bulgaria,True,#FF9966
+625,2024-08-09,Silver Medal,2.0,Male,COL,Colombia,Colombia,True,#CCCC99
+626,2024-08-09,Bronze Medal,3.0,Male,ITA,Italy,Italy,True,#FFB399
+627,2024-08-09,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+628,2024-08-09,Silver Medal,2.0,Female,COL,Colombia,Colombia,True,#CCCC99
+629,2024-08-09,Bronze Medal,3.0,Female,ECU,Ecuador,Ecuador,True,#4D80CC
+630,2024-08-09,Gold Medal,1.0,Male,JPN,Japan,Japan,True,#809900
+631,2024-08-09,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+632,2024-08-09,Bronze Medal,3.0,Male,IND,India,India,True,#CC80CC
+633,2024-08-09,Bronze Medal,3.0,Male,UZB,Uzbekistan,Uzbekistan,True,#B366CC
+634,2024-08-09,Gold Medal,1.0,Male,BUL,Bulgaria,Bulgaria,True,#FF9966
+635,2024-08-09,Silver Medal,2.0,Male,IRI,IR Iran,IR Iran,True,#666633
+636,2024-08-09,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+637,2024-08-09,Bronze Medal,3.0,Male,GRE,Greece,Greece,True,#999933
+638,2024-08-09,Gold Medal,1.0,Female,JPN,Japan,Japan,True,#809900
+639,2024-08-09,Silver Medal,2.0,Female,MDA,Republic of Moldova,Republic of Moldova,True,#66994D
+640,2024-08-09,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+641,2024-08-09,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+642,2024-08-10,Gold Medal,1.0,Male,NOR,Norway,Norway,True,#003366
+643,2024-08-10,Silver Medal,2.0,Male,KEN,Kenya,Kenya,True,#9999CC
+644,2024-08-10,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+645,2024-08-10,Gold Medal,1.0,Male,KEN,Kenya,Kenya,True,#9999CC
+646,2024-08-10,Silver Medal,2.0,Male,CAN,Canada,Canada,True,#CCFF1A
+647,2024-08-10,Bronze Medal,3.0,Male,ALG,Algeria,Algeria,True,#FFCC00
+648,2024-08-10,Gold Medal,1.0,Male,NZL,New Zealand,New Zealand,True,#66E64D
+649,2024-08-10,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+650,2024-08-10,Bronze Medal,3.0,Male,QAT,Qatar,Qatar,True,#99FFCC
+651,2024-08-10,Gold Medal,1.0,Male,ETH,Ethiopia,Ethiopia,True,#FF4D4D
+652,2024-08-10,Silver Medal,2.0,Male,BEL,Belgium,Belgium,True,#FF6633
+653,2024-08-10,Bronze Medal,3.0,Male,KEN,Kenya,Kenya,True,#9999CC
+654,2024-08-10,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+655,2024-08-10,Silver Medal,2.0,Female,FRA,France,France,True,#99FF99
+656,2024-08-10,Bronze Medal,3.0,Female,PUR,Puerto Rico,United States,True,#33CCFF
+657,2024-08-10,Gold Medal,1.0,Female,KEN,Kenya,Kenya,True,#9999CC
+658,2024-08-10,Silver Medal,2.0,Female,AUS,Australia,Australia,True,#FF33FF
+659,2024-08-10,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+660,2024-08-10,Gold Medal,1.0,Female,JPN,Japan,Japan,True,#809900
+661,2024-08-10,Silver Medal,2.0,Female,RSA,South Africa,South Africa,True,#991AFF
+662,2024-08-10,Bronze Medal,3.0,Female,CZE,Czechia,Czechia,True,#33FFCC
+663,2024-08-10,Gold Medal,1.0,Male,UZB,Uzbekistan,Uzbekistan,True,#B366CC
+664,2024-08-10,Silver Medal,2.0,Male,ESP,Spain,Spain,True,#E6B3B3
+665,2024-08-10,Gold Medal,1.0,Male,UZB,Uzbekistan,Uzbekistan,True,#B366CC
+666,2024-08-10,Silver Medal,2.0,Male,KGZ,Kyrgyzstan,Kyrgyzstan,True,#CC9966
+667,2024-08-10,Gold Medal,1.0,Female,TPE,Chinese Taipei,Chinese Taipei,True,#FF9966
+668,2024-08-10,Silver Medal,2.0,Female,POL,Poland,Poland,True,#FF1A66
+669,2024-08-10,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+670,2024-08-10,Silver Medal,2.0,Female,PAN,Panama,Panama,True,#9966CC
+671,2024-08-10,Gold Medal,1.0,Male,CAN,Canada,Canada,True,#CCFF1A
+672,2024-08-10,Silver Medal,2.0,Male,FRA,France,France,True,#99FF99
+673,2024-08-10,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+674,2024-08-10,Gold Medal,1.0,Male,CZE,Czechia,Czechia,True,#33FFCC
+675,2024-08-10,Silver Medal,2.0,Male,HUN,Hungary,Hungary,True,#B34D4D
+676,2024-08-10,Bronze Medal,3.0,Male,HUN,Hungary,Hungary,True,#B34D4D
+677,2024-08-10,Gold Medal,1.0,Female,CAN,Canada,Canada,True,#CCFF1A
+678,2024-08-10,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+679,2024-08-10,Bronze Medal,3.0,Female,CUB,Cuba,Cuba,True,#FF66CC
+680,2024-08-10,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True,#66E64D
+681,2024-08-10,Silver Medal,2.0,Female,HUN,Hungary,Hungary,True,#B34D4D
+682,2024-08-10,Bronze Medal,3.0,Female,DEN,Denmark,Denmark,True,#33CC66
+683,2024-08-10,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+684,2024-08-10,Silver Medal,2.0,Male,JPN,Japan,Japan,True,#809900
+685,2024-08-10,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+686,2024-08-10,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True,#66E64D
+687,2024-08-10,Silver Medal,2.0,Female,GER,Germany,Germany,True,#FF99E6
+688,2024-08-10,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+689,2024-08-10,Gold Medal,1.0,Male,EGY,Egypt,Egypt,True,#E6331A
+690,2024-08-10,Silver Medal,2.0,Male,JPN,Japan,Japan,True,#809900
+691,2024-08-10,Bronze Medal,3.0,Male,ITA,Italy,Italy,True,#FFB399
+692,2024-08-10,Gold Medal,1.0,Female,SLO,Slovenia,Slovenia,True,#4D8066
+693,2024-08-10,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+694,2024-08-10,Bronze Medal,3.0,Female,AUT,Austria,Austria,True,#FF3380
+695,2024-08-10,Gold Medal,1.0,Male,IRI,IR Iran,IR Iran,True,#666633
+696,2024-08-10,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+697,2024-08-10,Bronze Medal,3.0,Male,CUB,Cuba,Cuba,True,#FF66CC
+698,2024-08-10,Bronze Medal,3.0,Male,CIV,Côte d'Ivoire,Côte d'Ivoire,True,#FF9933
+699,2024-08-10,Gold Medal,1.0,Female,FRA,France,France,True,#99FF99
+700,2024-08-10,Silver Medal,2.0,Female,UZB,Uzbekistan,Uzbekistan,True,#B366CC
+701,2024-08-10,Bronze Medal,3.0,Female,KOR,Korea,Korea,True,#E6B333
+702,2024-08-10,Bronze Medal,3.0,Female,TUR,Türkiye,Türkiye,True,#663333
+703,2024-08-10,Gold Medal,1.0,Male,GEO,Georgia,Georgia,True,#B3B31A
+704,2024-08-10,Silver Medal,2.0,Male,ARM,Armenia,Armenia,True,#CC3333
+705,2024-08-10,Bronze Medal,3.0,Male,BRN,Bahrain,Bahrain,True,#9999FF
+706,2024-08-10,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+707,2024-08-10,Silver Medal,2.0,Male,UZB,Uzbekistan,Uzbekistan,True,#B366CC
+708,2024-08-10,Bronze Medal,3.0,Male,AIN,AIN,Belarus,True,#99E6E6
+709,2024-08-10,Gold Medal,1.0,Female,NOR,Norway,Norway,True,#003366
+710,2024-08-10,Silver Medal,2.0,Female,EGY,Egypt,Egypt,True,#E6331A
+711,2024-08-10,Bronze Medal,3.0,Female,ECU,Ecuador,Ecuador,True,#4D80CC
+712,2024-08-10,Gold Medal,1.0,Male,GEO,Georgia,Georgia,True,#B3B31A
+713,2024-08-10,Silver Medal,2.0,Male,IRI,IR Iran,IR Iran,True,#666633
+714,2024-08-10,Bronze Medal,3.0,Male,TUR,Türkiye,Türkiye,True,#663333
+715,2024-08-10,Bronze Medal,3.0,Male,AZE,Azerbaijan,Azerbaijan,True,#4DB3FF
+716,2024-08-10,Gold Medal,1.0,Male,UZB,Uzbekistan,Uzbekistan,True,#B366CC
+717,2024-08-10,Silver Medal,2.0,Male,JPN,Japan,Japan,True,#809900
+718,2024-08-10,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+719,2024-08-10,Bronze Medal,3.0,Male,ALB,Albania,Albania,True,#66FF99
+720,2024-08-10,Gold Medal,1.0,Female,JPN,Japan,Japan,True,#809900
+721,2024-08-10,Silver Medal,2.0,Female,UKR,Ukraine,Ukraine,True,#E666FF
+722,2024-08-10,Bronze Medal,3.0,Female,KGZ,Kyrgyzstan,Kyrgyzstan,True,#CC9966
+723,2024-08-10,Bronze Medal,3.0,Female,NOR,Norway,Norway,True,#003366
+724,2024-08-11,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+725,2024-08-11,Silver Medal,2.0,Female,ETH,Ethiopia,Ethiopia,True,#FF4D4D
+726,2024-08-11,Bronze Medal,3.0,Female,KEN,Kenya,Kenya,True,#9999CC
+727,2024-08-11,Gold Medal,1.0,Male,NED,Netherlands,Netherlands,True,#CCCC00
+728,2024-08-11,Silver Medal,2.0,Male,AUS,Australia,Australia,True,#FF33FF
+729,2024-08-11,Bronze Medal,3.0,Male,AUS,Australia,Australia,True,#FF33FF
+730,2024-08-11,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+731,2024-08-11,Silver Medal,2.0,Female,POL,Poland,Poland,True,#FF1A66
+732,2024-08-11,Bronze Medal,3.0,Female,NZL,New Zealand,New Zealand,True,#66E64D
+733,2024-08-11,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True,#66E64D
+734,2024-08-11,Silver Medal,2.0,Female,GER,Germany,Germany,True,#FF99E6
+735,2024-08-11,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+736,2024-08-11,Gold Medal,1.0,Female,HUN,Hungary,Hungary,True,#B34D4D
+737,2024-08-11,Silver Medal,2.0,Female,FRA,France,France,True,#99FF99
+738,2024-08-11,Bronze Medal,3.0,Female,KOR,Korea,Korea,True,#E6B333
+739,2024-08-11,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+740,2024-08-11,Silver Medal,2.0,Female,KOR,Korea,Korea,True,#E6B333
+741,2024-08-11,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+742,2024-08-11,Gold Medal,1.0,Male,JPN,Japan,Japan,True,#809900
+743,2024-08-11,Silver Medal,2.0,Male,IRI,IR Iran,IR Iran,True,#666633
+744,2024-08-11,Bronze Medal,3.0,Male,PUR,Puerto Rico,United States,True,#33CCFF
+745,2024-08-11,Bronze Medal,3.0,Male,ALB,Albania,Albania,True,#66FF99
+746,2024-08-11,Gold Medal,1.0,Male,BRN,Bahrain,Bahrain,True,#9999FF
+747,2024-08-11,Silver Medal,2.0,Male,GEO,Georgia,Georgia,True,#B3B31A
+748,2024-08-11,Bronze Medal,3.0,Male,AZE,Azerbaijan,Azerbaijan,True,#4DB3FF
+749,2024-08-11,Bronze Medal,3.0,Male,IRI,IR Iran,IR Iran,True,#666633
+750,2024-08-11,Gold Medal,1.0,Female,JPN,Japan,Japan,True,#809900
+751,2024-08-11,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+752,2024-08-11,Bronze Medal,3.0,Female,CUB,Cuba,Cuba,True,#FF66CC
+753,2024-08-11,Bronze Medal,3.0,Female,COL,Colombia,Colombia,True,#CCCC99
+754,2024-08-09,Gold Medal,1.0,Female,GER,Germany,Germany,True,#FF99E6
+755,2024-08-09,Silver Medal,2.0,Female,BUL,Bulgaria,Bulgaria,True,#FF9966
+756,2024-08-09,Bronze Medal,3.0,Female,ITA,Italy,Italy,True,#FFB399
+757,2024-08-09,Gold Medal,1.0,Female,BEL,Belgium,Belgium,True,#FF6633
+758,2024-08-09,Silver Medal,2.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+759,2024-08-09,Bronze Medal,3.0,Female,BEL,Belgium,Belgium,True,#FF6633
+760,2024-07-27,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+762,2024-07-27,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+764,2024-07-27,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+766,2024-07-27,Gold Medal,1.0,Male,FRA,France,France,True,#99FF99
+779,2024-07-27,Silver Medal,2.0,Male,FIJ,Fiji,Fiji,True,#FFCC99
+793,2024-07-27,Bronze Medal,3.0,Male,RSA,South Africa,South Africa,True,#991AFF
+806,2024-07-27,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+808,2024-07-27,Silver Medal,2.0,Female,KOR,Korea,Korea,True,#E6B333
+810,2024-07-27,Bronze Medal,3.0,Female,KAZ,Kazakhstan,Kazakhstan,True,#80B300
+812,2024-07-27,Gold Medal,1.0,Male,USA,United States,United States,True,#00B3E6
+818,2024-07-27,Silver Medal,2.0,Male,AUS,Australia,Australia,True,#FF33FF
+823,2024-07-27,Bronze Medal,3.0,Male,ITA,Italy,Italy,True,#FFB399
+829,2024-07-27,Gold Medal,1.0,Female,AUS,Australia,Australia,True,#FF33FF
+835,2024-07-27,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+841,2024-07-27,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+846,2024-07-28,Gold Medal,1.0,Female,KOR,Korea,Korea,True,#E6B333
+849,2024-07-28,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+852,2024-07-28,Bronze Medal,3.0,Female,MEX,Mexico,Mexico,True,#809980
+855,2024-07-29,Gold Medal,1.0,Male,KOR,Korea,Korea,True,#E6B333
+858,2024-07-29,Silver Medal,2.0,Male,FRA,France,France,True,#99FF99
+861,2024-07-29,Bronze Medal,3.0,Male,TUR,Türkiye,Türkiye,True,#663333
+864,2024-07-29,Gold Medal,1.0,Male,JPN,Japan,Japan,True,#809900
+869,2024-07-29,Silver Medal,2.0,Male,CHN,China,China,True,#B33300
+874,2024-07-29,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+879,2024-07-29,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+881,2024-07-29,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+883,2024-07-29,Bronze Medal,3.0,Male,CAN,Canada,Canada,True,#CCFF1A
+885,2024-07-29,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+889,2024-07-29,Silver Medal,2.0,Male,FRA,France,France,True,#99FF99
+893,2024-07-29,Bronze Medal,3.0,Male,JPN,Japan,Japan,True,#809900
+897,2024-07-30,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+902,2024-07-30,Silver Medal,2.0,Female,ITA,Italy,Italy,True,#FFB399
+907,2024-07-30,Bronze Medal,3.0,Female,BRA,Brazil,Brazil,True,#33FFCC
+912,2024-07-30,Gold Medal,1.0,Female,ITA,Italy,Italy,True,#FFB399
+916,2024-07-30,Silver Medal,2.0,Female,FRA,France,France,True,#99FF99
+920,2024-07-30,Bronze Medal,3.0,Female,POL,Poland,Poland,True,#FF1A66
+924,2024-07-30,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True,#66E64D
+936,2024-07-30,Silver Medal,2.0,Female,CAN,Canada,Canada,True,#CCFF1A
+950,2024-07-30,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+962,2024-07-30,Gold Medal,1.0,Female,SRB,Serbia,Serbia,True,#FF99CC
+964,2024-07-30,Silver Medal,2.0,Female,TUR,Türkiye,Türkiye,True,#663333
+966,2024-07-30,Bronze Medal,3.0,Female,IND,India,India,True,#CC80CC
+968,2024-07-30,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+974,2024-07-30,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+981,2024-07-30,Bronze Medal,3.0,Male,AUS,Australia,Australia,True,#FF33FF
+987,2024-07-30,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+989,2024-07-30,Silver Medal,2.0,Male,PRK,DPR Korea,DPR Korea,True,#99CCCC
+991,2024-07-30,Bronze Medal,3.0,Male,KOR,Korea,Korea,True,#E6B333
+993,2024-07-31,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+995,2024-07-31,Silver Medal,2.0,Female,PRK,DPR Korea,DPR Korea,True,#99CCCC
+997,2024-07-31,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+999,2024-07-31,Gold Medal,1.0,Male,KOR,Korea,Korea,True,#E6B333
+1003,2024-07-31,Silver Medal,2.0,Male,HUN,Hungary,Hungary,True,#B34D4D
+1007,2024-07-31,Bronze Medal,3.0,Male,FRA,France,France,True,#99FF99
+1011,2024-07-31,Gold Medal,1.0,Male,NED,Netherlands,Netherlands,True,#CCCC00
+1015,2024-07-31,Silver Medal,2.0,Male,ITA,Italy,Italy,True,#FFB399
+1019,2024-07-31,Bronze Medal,3.0,Male,POL,Poland,Poland,True,#FF1A66
+1023,2024-07-31,Gold Medal,1.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+1027,2024-07-31,Silver Medal,2.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+1031,2024-07-31,Bronze Medal,3.0,Female,GER,Germany,Germany,True,#FF99E6
+1035,2024-08-01,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+1039,2024-08-01,Silver Medal,2.0,Female,ITA,Italy,Italy,True,#FFB399
+1043,2024-08-01,Bronze Medal,3.0,Female,JPN,Japan,Japan,True,#809900
+1047,2024-08-01,Gold Medal,1.0,Male,ROU,Romania,Romania,True,#33991A
+1049,2024-08-01,Silver Medal,2.0,Male,NED,Netherlands,Netherlands,True,#CCCC00
+1051,2024-08-01,Bronze Medal,3.0,Male,IRL,Ireland,Ireland,True,#CC9999
+1053,2024-08-01,Gold Medal,1.0,Male,USA,United States,United States,True,#00B3E6
+1057,2024-08-01,Silver Medal,2.0,Male,NZL,New Zealand,New Zealand,True,#66E64D
+1061,2024-08-01,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+1065,2024-08-01,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True,#66E64D
+1067,2024-08-01,Silver Medal,2.0,Female,ROU,Romania,Romania,True,#33991A
+1069,2024-08-01,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+1071,2024-08-01,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+1075,2024-08-01,Silver Medal,2.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+1079,2024-08-01,Bronze Medal,3.0,Female,NZL,New Zealand,New Zealand,True,#66E64D
+1083,2024-08-01,Gold Medal,1.0,Female,AUS,Australia,Australia,True,#FF33FF
+1089,2024-08-01,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+1096,2024-08-01,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+1102,2024-08-02,Gold Medal,1.0,Female,KOR,Korea,Korea,True,#E6B333
+1104,2024-08-02,Silver Medal,2.0,Female,GER,Germany,Germany,True,#FF99E6
+1106,2024-08-02,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+1108,2024-08-02,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+1110,2024-08-02,Silver Medal,2.0,Male,KOR,Korea,Korea,True,#E6B333
+1112,2024-08-02,Bronze Medal,3.0,Male,JPN,Japan,Japan,True,#809900
+1114,2024-08-02,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+1116,2024-08-02,Silver Medal,2.0,Male,MEX,Mexico,Mexico,True,#809980
+1118,2024-08-02,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+1120,2024-08-02,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+1124,2024-08-02,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+1128,2024-08-02,Bronze Medal,3.0,Male,FRA,France,France,False,#99FF99
+1132,2024-08-02,Gold Medal,1.0,Male,HUN,Hungary,Hungary,True,#B34D4D
+1136,2024-08-02,Silver Medal,2.0,Male,JPN,Japan,Japan,True,#809900
+1140,2024-08-02,Bronze Medal,3.0,Male,CZE,Czechia,Czechia,True,#33FFCC
+1144,2024-08-02,Gold Medal,1.0,Male,IRL,Ireland,Ireland,True,#CC9999
+1146,2024-08-02,Silver Medal,2.0,Male,ITA,Italy,Italy,True,#FFB399
+1148,2024-08-02,Bronze Medal,3.0,Male,GRE,Greece,Greece,True,#999933
+1150,2024-08-02,Gold Medal,1.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+1152,2024-08-02,Silver Medal,2.0,Female,ROU,Romania,Romania,True,#33991A
+1154,2024-08-02,Bronze Medal,3.0,Female,GRE,Greece,Greece,True,#999933
+1156,2024-08-02,Gold Medal,1.0,Male,CRO,Croatia,Croatia,True,#1AB399
+1158,2024-08-02,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+1160,2024-08-02,Bronze Medal,3.0,Male,SUI,Switzerland,Switzerland,True,#E666B3
+1162,2024-08-02,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+1164,2024-08-02,Silver Medal,2.0,Female,ROU,Romania,Romania,True,#33991A
+1166,2024-08-02,Bronze Medal,3.0,Female,AUS,Australia,Australia,True,#FF33FF
+1168,2024-08-02,Gold Medal,1.0,Male,ESP,Spain,Spain,True,#E6B3B3
+1170,2024-08-02,Silver Medal,2.0,Male,NZL,New Zealand,New Zealand,True,#66E64D
+1172,2024-08-02,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+1174,2024-08-02,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+1176,2024-08-02,Silver Medal,2.0,Female,SWE,Sweden,Sweden,True,#66991A
+1178,2024-08-02,Bronze Medal,3.0,Female,FRA,France,France,True,#99FF99
+1180,2024-08-02,Gold Medal,1.0,Female,CZE,Czechia,Czechia,True,#33FFCC
+1182,2024-08-02,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+1184,2024-08-02,Bronze Medal,3.0,Female,CAN,Canada,Canada,True,#CCFF1A
+1186,2024-08-03,Gold Medal,1.0,Male,NED,Netherlands,Netherlands,True,#CCCC00
+1192,2024-08-03,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+1198,2024-08-03,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,False,#FFFF99
+1207,2024-08-03,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+1209,2024-08-03,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+1211,2024-08-03,Bronze Medal,3.0,Female,JPN,Japan,Japan,True,#809900
+1213,2024-08-03,Gold Medal,1.0,Female,GER,Germany,Germany,True,#FF99E6
+1217,2024-08-03,Silver Medal,2.0,Male,DEN,Denmark,Denmark,True,#33CC66
+1221,2024-08-03,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+1225,2024-08-03,Gold Medal,1.0,Female,UKR,Ukraine,Ukraine,True,#E666FF
+1229,2024-08-03,Silver Medal,2.0,Female,KOR,Korea,Korea,True,#E6B333
+1233,2024-08-03,Bronze Medal,3.0,Female,JPN,Japan,Japan,True,#809900
+1237,2024-08-03,Gold Medal,1.0,Female,FRA,France,France,True,#99FF99
+1251,2024-08-03,Silver Medal,2.0,Female,JPN,Japan,Japan,True,#809900
+1265,2024-08-03,Bronze Medal,3.0,Female,BRA,Brazil,Brazil,True,#33FFCC
+1275,2024-08-03,Bronze Medal,3.0,Female,KOR,Korea,Korea,True,#E6B333
+1286,2024-08-03,Gold Medal,1.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+1295,2024-08-03,Silver Medal,2.0,Male,NED,Netherlands,Netherlands,True,#CCCC00
+1304,2024-08-03,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+1313,2024-08-03,Gold Medal,1.0,Female,ROU,Romania,Romania,True,#33991A
+1322,2024-08-03,Silver Medal,2.0,Female,CAN,Canada,Canada,True,#CCFF1A
+1331,2024-08-03,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+1340,2024-08-03,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+1348,2024-08-03,Silver Medal,2.0,Male,CHN,China,China,True,#B33300
+1354,2024-08-03,Bronze Medal,3.0,Female,AUS,Australia,Australia,True,#FF33FF
+1362,2024-08-03,Gold Medal,1.0,Male,AUS,Australia,Australia,True,#FF33FF
+1364,2024-08-03,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+1366,2024-08-03,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+1368,2024-08-04,Gold Medal,1.0,Male,TPE,Chinese Taipei,Chinese Taipei,True,#FF9966
+1370,2024-08-04,Silver Medal,2.0,Male,CHN,China,China,True,#B33300
+1372,2024-08-04,Bronze Medal,3.0,Male,MAS,Malaysia,Malaysia,True,#3366FF
+1374,2024-08-04,Gold Medal,1.0,Male,JPN,Japan,Japan,True,#809900
+1378,2024-08-04,Silver Medal,2.0,Male,ITA,Italy,Italy,True,#FFB399
+1382,2024-08-04,Bronze Medal,3.0,Male,FRA,France,France,True,#99FF99
+1386,2024-08-04,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+1391,2024-08-04,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+1398,2024-08-04,Bronze Medal,3.0,Male,FRA,France,France,True,#99FF99
+1404,2024-08-04,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+1412,2024-08-04,Silver Medal,2.0,Female,AUS,Australia,Australia,True,#FF33FF
+1420,2024-08-04,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+1427,2024-08-04,Gold Medal,1.0,Female,ITA,Italy,Italy,True,#FFB399
+1429,2024-08-04,Silver Medal,2.0,Female,AIN,AIN,Russian Federation,True,#99E6E6
+1431,2024-08-04,Bronze Medal,3.0,Female,ESP,Spain,Spain,True,#E6B3B3
+1433,2024-08-05,Gold Medal,1.0,Male,NED,Netherlands,Netherlands,True,#CCCC00
+1437,2024-08-05,Silver Medal,2.0,Male,FRA,France,France,True,#99FF99
+1441,2024-08-05,Bronze Medal,3.0,Male,LTU,Lithuania,Lithuania,True,#66FF33
+1445,2024-08-05,Gold Medal,1.0,Female,GER,Germany,Germany,True,#FF99E6
+1449,2024-08-05,Silver Medal,2.0,Female,ESP,Spain,Spain,True,#E6B3B3
+1453,2024-08-05,Bronze Medal,3.0,Female,USA,United States,United States,True,#00B3E6
+1457,2024-08-05,Gold Medal,1.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+1461,2024-08-05,Silver Medal,2.0,Female,NZL,New Zealand,New Zealand,True,#66E64D
+1465,2024-08-05,Bronze Medal,3.0,Female,GER,Germany,Germany,True,#FF99E6
+1469,2024-08-05,Gold Medal,1.0,Female,ITA,Italy,Italy,True,#FFB399
+1471,2024-08-05,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+1473,2024-08-05,Bronze Medal,3.0,Female,CHN,China,China,True,#B33300
+1475,2024-08-05,Gold Medal,1.0,Male,GER,Germany,Germany,True,#FF99E6
+1479,2024-08-05,Silver Medal,2.0,Male,USA,United States,United States,True,#00B3E6
+1483,2024-08-05,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+1487,2024-08-06,Gold Medal,1.0,Male,NED,Netherlands,Netherlands,True,#CCCC00
+1491,2024-08-06,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+1495,2024-08-06,Bronze Medal,3.0,Male,AUS,Australia,Australia,True,#FF33FF
+1499,2024-08-07,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+1508,2024-08-07,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+1517,2024-08-07,Bronze Medal,3.0,Female,ESP,Spain,Spain,True,#E6B3B3
+1526,2024-08-07,Gold Medal,1.0,Male,ESP,Spain,Spain,True,#E6B3B3
+1528,2024-08-07,Silver Medal,2.0,Male,ECU,Ecuador,Ecuador,True,#4D80CC
+1530,2024-08-07,Bronze Medal,3.0,Male,AUS,Australia,Australia,True,#FF33FF
+1532,2024-08-07,Gold Medal,1.0,Male,AUS,Australia,Australia,True,#FF33FF
+1537,2024-08-07,Silver Medal,2.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+1543,2024-08-07,Bronze Medal,3.0,Male,ITA,Italy,Italy,True,#FFB399
+1548,2024-08-07,Gold Medal,1.0,Female,USA,United States,United States,False,#00B3E6
+1554,2024-08-07,Silver Medal,2.0,Female,NZL,New Zealand,New Zealand,True,#66E64D
+1559,2024-08-07,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,False,#FFFF99
+1565,2024-08-08,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+1567,2024-08-08,Silver Medal,2.0,Male,ITA,Italy,Italy,True,#FFB399
+1569,2024-08-08,Bronze Medal,3.0,Male,ESP,Spain,Spain,True,#E6B3B3
+1571,2024-08-08,Gold Medal,1.0,Male,GER,Germany,Germany,True,#FF99E6
+1575,2024-08-08,Silver Medal,2.0,Male,AUS,Australia,Australia,True,#FF33FF
+1579,2024-08-08,Bronze Medal,3.0,Male,ESP,Spain,Spain,True,#E6B3B3
+1583,2024-08-08,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True,#66E64D
+1587,2024-08-08,Silver Medal,2.0,Female,GER,Germany,Germany,True,#FF99E6
+1591,2024-08-08,Bronze Medal,3.0,Female,HUN,Hungary,Hungary,True,#B34D4D
+1595,2024-08-08,Bronze Medal,3.0,Male,MAR,Morocco,Morocco,True,#3399FF
+1614,2024-08-08,Gold Medal,1.0,Male,NED,Netherlands,Netherlands,True,#CCCC00
+1632,2024-08-08,Silver Medal,2.0,Male,GER,Germany,Germany,True,#FF99E6
+1650,2024-08-08,Bronze Medal,3.0,Male,IND,India,India,True,#CC80CC
+1666,2024-08-08,Gold Medal,1.0,Female,AUT,Austria,Austria,True,#FF3380
+1668,2024-08-08,Silver Medal,2.0,Male,JPN,Japan,Japan,True,#809900
+1670,2024-08-08,Bronze Medal,3.0,Male,SWE,Sweden,Sweden,True,#66991A
+1672,2024-08-08,Gold Medal,1.0,Male,ITA,Italy,Italy,True,#FFB399
+1674,2024-08-08,Silver Medal,2.0,Male,ARG,Argentina,Argentina,True,#1AFF33
+1676,2024-08-08,Bronze Medal,3.0,Male,NZL,New Zealand,New Zealand,True,#66E64D
+1678,2024-08-09,Gold Medal,1.0,Male,CAN,Canada,Canada,False,#CCFF1A
+1684,2024-08-09,Silver Medal,2.0,Male,RSA,South Africa,South Africa,True,#991AFF
+1689,2024-08-09,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+1694,2024-08-09,Gold Medal,1.0,Female,USA,United States,United States,False,#00B3E6
+1700,2024-08-09,Silver Medal,2.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+1706,2024-08-09,Bronze Medal,3.0,Female,GER,Germany,Germany,True,#FF99E6
+1711,2024-08-09,Gold Medal,1.0,Female,BRA,Brazil,Brazil,True,#33FFCC
+1713,2024-08-09,Silver Medal,2.0,Female,CAN,Canada,Canada,True,#CCFF1A
+1715,2024-08-09,Bronze Medal,3.0,Female,SUI,Switzerland,Switzerland,True,#E666B3
+1717,2024-08-09,Gold Medal,1.0,Male,GER,Germany,Germany,True,#FF99E6
+1719,2024-08-09,Silver Medal,2.0,Male,HUN,Hungary,Hungary,True,#B34D4D
+1721,2024-08-09,Bronze Medal,3.0,Male,AUS,Australia,Australia,True,#FF33FF
+1723,2024-08-09,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+1725,2024-08-09,Silver Medal,2.0,Female,UKR,Ukraine,Ukraine,True,#E666FF
+1727,2024-08-09,Bronze Medal,3.0,Female,CAN,Canada,Canada,True,#CCFF1A
+1729,2024-08-09,Gold Medal,1.0,Female,NZL,New Zealand,New Zealand,True,#66E64D
+1731,2024-08-09,Silver Medal,2.0,Female,HUN,Hungary,Hungary,True,#B34D4D
+1733,2024-08-09,Bronze Medal,3.0,Female,GER,Germany,Germany,True,#FF99E6
+1735,2024-08-09,Bronze Medal,3.0,Female,HUN,Hungary,Hungary,True,#B34D4D
+1737,2024-08-09,Gold Medal,1.0,Female,ITA,Italy,Italy,True,#FFB399
+1739,2024-08-09,Silver Medal,2.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+1741,2024-08-09,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+1743,2024-08-09,Gold Medal,1.0,Male,ESP,Spain,Spain,True,#E6B3B3
+1765,2024-08-09,Silver Medal,2.0,Male,FRA,France,France,True,#99FF99
+1786,2024-08-09,Bronze Medal,3.0,Female,GER,Germany,Germany,True,#FF99E6
+1806,2024-08-09,Gold Medal,1.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+1823,2024-08-09,Silver Medal,2.0,Female,CHN,China,China,True,#B33300
+1840,2024-08-09,Bronze Medal,3.0,Female,ARG,Argentina,Argentina,True,#1AFF33
+1856,2024-08-09,Gold Medal,1.0,Male,CHN,China,China,True,#B33300
+1859,2024-08-09,Silver Medal,2.0,Male,SWE,Sweden,Sweden,True,#66991A
+1862,2024-08-09,Bronze Medal,3.0,Male,FRA,France,France,True,#99FF99
+1865,2024-08-09,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+1878,2024-08-10,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+1880,2024-08-10,Silver Medal,2.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+1882,2024-08-10,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+1884,2024-08-10,Gold Medal,1.0,Male,USA,United States,United States,True,#00B3E6
+1892,2024-08-10,Silver Medal,2.0,Male,BOT,Botswana,Botswana,False,#6699FF
+1898,2024-08-10,Bronze Medal,3.0,Male,GBR,Great Britain,Great Britain,True,#FFFF99
+1905,2024-08-10,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+1913,2024-08-10,Silver Medal,2.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+1920,2024-08-10,Bronze Medal,3.0,Female,GBR,Great Britain,Great Britain,True,#FFFF99
+1928,2024-08-10,Gold Medal,1.0,Male,USA,United States,United States,True,#00B3E6
+1940,2024-08-10,Silver Medal,2.0,Male,FRA,France,France,True,#99FF99
+1952,2024-08-10,Bronze Medal,3.0,Male,SRB,Serbia,Serbia,True,#FF99CC
+1964,2024-08-10,Gold Medal,1.0,Male,SWE,Sweden,Sweden,True,#66991A
+1966,2024-08-10,Silver Medal,2.0,Male,GER,Germany,Germany,True,#FF99E6
+1968,2024-08-10,Bronze Medal,3.0,Male,NOR,Norway,Norway,True,#003366
+1970,2024-08-10,Gold Medal,1.0,Male,POR,Portugal,Portugal,True,#E64D66
+1972,2024-08-10,Silver Medal,2.0,Male,ITA,Italy,Italy,True,#FFB399
+1974,2024-08-10,Bronze Medal,3.0,Male,DEN,Denmark,Denmark,True,#33CC66
+1976,2024-08-10,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+1996,2024-08-10,Silver Medal,2.0,Female,BRA,Brazil,Brazil,True,#33FFCC
+2018,2024-08-10,Gold Medal,1.0,Female,NOR,Norway,Norway,True,#003366
+2033,2024-08-10,Silver Medal,2.0,Female,FRA,France,France,True,#99FF99
+2050,2024-08-10,Bronze Medal,3.0,Female,DEN,Denmark,Denmark,True,#33CC66
+2065,2024-08-10,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+2068,2024-08-10,Silver Medal,2.0,Female,JPN,Japan,Japan,True,#809900
+2071,2024-08-10,Bronze Medal,3.0,Female,KOR,Korea,Korea,True,#E6B333
+2074,2024-08-10,Gold Medal,1.0,Male,FRA,France,France,True,#99FF99
+2087,2024-08-10,Silver Medal,2.0,Male,POL,Poland,Poland,True,#FF1A66
+2100,2024-08-10,Bronze Medal,3.0,Female,BRA,Brazil,Brazil,True,#33FFCC
+2113,2024-08-10,Gold Medal,1.0,Female,ESP,Spain,Spain,True,#E6B3B3
+2126,2024-08-10,Silver Medal,2.0,Female,AUS,Australia,Australia,True,#FF33FF
+2139,2024-08-10,Bronze Medal,3.0,Female,NED,Netherlands,Netherlands,True,#CCCC00
+2152,2024-08-11,Gold Medal,1.0,Female,USA,United States,United States,True,#00B3E6
+2164,2024-08-11,Silver Medal,2.0,Female,FRA,France,France,True,#99FF99
+2176,2024-08-11,Bronze Medal,3.0,Female,AUS,Australia,Australia,True,#FF33FF
+2188,2024-08-11,Gold Medal,1.0,Male,DEN,Denmark,Denmark,True,#33CC66
+2204,2024-08-11,Silver Medal,2.0,Male,GER,Germany,Germany,True,#FF99E6
+2220,2024-08-11,Bronze Medal,3.0,Male,ESP,Spain,Spain,True,#E6B3B3
+2235,2024-08-11,Gold Medal,1.0,Female,ITA,Italy,Italy,True,#FFB399
+2248,2024-08-11,Silver Medal,2.0,Female,USA,United States,United States,True,#00B3E6
+2261,2024-08-11,Gold Medal,1.0,Male,SRB,Serbia,Serbia,True,#FF99CC
+2274,2024-08-11,Silver Medal,2.0,Male,CRO,Croatia,Croatia,True,#1AB399
+2287,2024-08-11,Bronze Medal,3.0,Male,USA,United States,United States,True,#00B3E6
+2300,2024-08-10,Gold Medal,1.0,Female,CHN,China,China,True,#B33300
+2305,2024-08-10,Silver Medal,2.0,Female,ISR,Israel,Israel,True,#9900B3
+2310,2024-08-10,Bronze Medal,3.0,Female,ITA,Italy,Italy,True,#FFB399
