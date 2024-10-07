@@ -1,6 +1,8 @@
 # olympic_medal_distribution_analysis
 
 # We will add project structure in here
+
+```
 ├── data                      <- Data Folder 
 │   ├── cleaned_data_india_credit.csv <- Cleaned data source
 │   ├── credit_card_india.csv <- Oringinal data source
@@ -23,3 +25,5 @@
 │
 ├── __init__.py               <- Package Initializer          
 └── README.md                 <- Project Documentation
+
+```
