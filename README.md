@@ -2,7 +2,7 @@
 
 This repository contains an analysis of Olympic medal distribution over the past 20 years, focusing on identifying key patterns and trends across participating countries.
 
-## 📊 Key Insights
+## Key Insights
 
 - The USA, China, and Russia consistently dominate the Olympics due to significant investment in sports.
 - Emerging countries like Japan and South Korea are rising as strong competitors in specific sports.
